@@ -1,0 +1,36 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Environment variables & secrets
+.env
+*.env
+
+# Data artifacts (keep directory structure via .gitkeep)
+data/nq_subset/*
+!data/nq_subset/.gitkeep
+data/poisoned_datasets/*
+!data/poisoned_datasets/.gitkeep
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output / logs / runs
+logs/
+outputs/
+*.log

@@ -1,0 +1,27 @@
+dataset:
+  name: "nq"
+  sample_queries: 300
+  poisons_per_query: 2
+retrieval:
+  dense_model: "facebook/contriever"
+  embedding_dim: 768
+  top_k_active: 5
+  top_n_expanded: 15
+stage1_defense:
+  baseline_z_threshold: 1.5
+  local_neighbors_m: 2
+  weights:
+    w_geometric: 0.50
+    w_local: 0.30
+    w_disagreement: 0.20
+    bias: 0.50
+  thresholds:
+    tau_low: 0.35
+    tau_high: 0.75
+stage2_defense:
+  nli_model: "cross-encoder/nli-deberta-v3-small"
+  weights:
+    alpha_stage1: 0.30
+    beta_drift: 0.30
+    gamma_nli: 0.40
+  tau_verify: 0.55
