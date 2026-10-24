@@ -8,10 +8,19 @@ Implements enterprise cybersecurity XAI figures using Plotly:
 4. Red-team ablation grouped bar charts and heatmap matrices
 """
 
+from __future__ import annotations
+
 from typing import Any, Dict, List, Optional
 import numpy as np
-import plotly.graph_objects as go
-from plotly.subplots import make_subplots
+
+try:
+    import plotly.graph_objects as go
+    from plotly.subplots import make_subplots
+    HAS_PLOTLY = True
+except ImportError:
+    go = None
+    make_subplots = None
+    HAS_PLOTLY = False
 
 from src.schemas import RetrievalPool, RetrievedCandidate, TrustStatus
 
@@ -48,6 +57,8 @@ class DefensePlotter:
     """
 
     def __init__(self):
+        if not HAS_PLOTLY:
+            raise ImportError("plotly is required for DefensePlotter: pip install plotly")
         self.default_layout = dict(
             template="plotly_dark",
             paper_bgcolor="rgba(0, 0, 0, 0)",

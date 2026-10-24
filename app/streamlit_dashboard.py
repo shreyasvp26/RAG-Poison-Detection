@@ -9,7 +9,13 @@ import json
 import time
 from typing import List, Tuple
 import numpy as np
-import streamlit as st
+
+try:
+    import streamlit as st
+    HAS_STREAMLIT = True
+except ImportError:
+    st = None
+    HAS_STREAMLIT = False
 
 from src.generation.llm_client import LLMClient
 from src.evaluation.metrics import DefenseMetricsCalculator
@@ -415,6 +421,9 @@ def run_or_simulate_defense_pipeline(
 # 3. Main Streamlit SOC Application
 # -----------------------------------------------------------------------------
 def main():
+    if not HAS_STREAMLIT:
+        raise ImportError("streamlit is required to run the dashboard: pip install streamlit")
+
     st.set_page_config(
         page_title="EviGuard-RAG // AI Security Operations Center",
         page_icon="🛡️",

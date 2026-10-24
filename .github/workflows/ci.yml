@@ -25,7 +25,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install numpy scipy scikit-learn pyyaml pytest
+          pip install numpy scipy scikit-learn pyyaml pytest streamlit plotly
 
       - name: Run pytest
         env:

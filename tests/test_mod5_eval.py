@@ -11,8 +11,14 @@ Tests:
 """
 
 import numpy as np
-import plotly.graph_objects as go
 import pytest
+
+try:
+    import plotly.graph_objects as go
+    HAS_PLOTLY = True
+except ImportError:
+    go = None
+    HAS_PLOTLY = False
 
 from src.evaluation.metrics import DefenseMetricsCalculator
 from src.evaluation.plots import DefensePlotter
@@ -165,6 +171,7 @@ def test_defense_metrics_ablation_benchmark_data():
     assert asr_mat[2][3] < 5.0   # V4 full defense succeeds
 
 
+@pytest.mark.skipif(not HAS_PLOTLY, reason="plotly is required for DefensePlotter figure tests")
 def test_defense_plotter_figures():
     """Verify all DefensePlotter plotting routines generate valid Plotly figures."""
     plotter = DefensePlotter()
