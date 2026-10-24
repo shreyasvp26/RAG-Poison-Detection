@@ -265,9 +265,10 @@ class CorpusInjector:
         Requires an active internet connection and may take several minutes to download ~5GB.
         """
         try:
-            from beir.datasets.data_loader import GenericDataLoader
-            from beir import util
-        except ImportError:
+            import importlib
+            GenericDataLoader = importlib.import_module("beir.datasets.data_loader").GenericDataLoader
+            util = importlib.import_module("beir.util")
+        except (ImportError, ModuleNotFoundError, AttributeError):
             raise ImportError("BEIR package is required for full dataset download: pip install beir")
 
         dataset = "nq"
