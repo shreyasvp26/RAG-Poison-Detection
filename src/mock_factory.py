@@ -115,7 +115,7 @@ def create_mock_retrieval_pool(
             raw_emb = (
                 query_embedding * 0.85
                 + orthogonal_dir * 0.52
-                + rng.standard_normal(embedding_dim) * 0.05
+                + _l2_normalize(rng.standard_normal(embedding_dim)) * 0.05
             )
             emb = _l2_normalize(raw_emb)
 
@@ -139,7 +139,7 @@ def create_mock_retrieval_pool(
             noise_factor = 0.20 + (rank * 0.015)
             raw_emb = (
                 cluster_direction * relevance_factor
-                + rng.standard_normal(embedding_dim) * noise_factor
+                + _l2_normalize(rng.standard_normal(embedding_dim)) * noise_factor
             )
             emb = _l2_normalize(raw_emb)
 

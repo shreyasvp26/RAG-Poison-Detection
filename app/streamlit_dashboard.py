@@ -287,6 +287,11 @@ def run_or_simulate_defense_pipeline(
         cand.bm25_rank = 12 + p_idx
         cand.bm25_score = 9.5 - p_idx
 
+        if p_idx > 0:
+            orthogonal_noise = rng.standard_normal(dim)
+            adv_dir = norm_v(orthogonal_noise - np.dot(orthogonal_noise, pool.active_set[0].embedding) * pool.active_set[0].embedding)
+            cand.embedding = norm_v(pool.query_embedding * 0.85 + adv_dir * 0.52 + norm_v(rng.standard_normal(dim)) * 0.05)
+
     # Initialize latency records
     pool.latency_ms = {
         "retrieval": round(float(rng.uniform(8.2, 12.5)), 2),
