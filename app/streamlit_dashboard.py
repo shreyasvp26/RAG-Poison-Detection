@@ -42,6 +42,22 @@ from src.schemas import (
 )
 
 
+def _compat_dataframe(data, **kwargs):
+    """Render dataframe compatible across Streamlit <1.60 and >=1.60."""
+    try:
+        st.dataframe(data, width="stretch", **kwargs)
+    except (TypeError, ValueError):
+        st.dataframe(data, use_container_width=True, **kwargs)
+
+
+def _compat_plotly_chart(fig, **kwargs):
+    """Render plotly chart compatible across Streamlit <1.60 and >=1.60."""
+    try:
+        st.plotly_chart(fig, width="stretch", **kwargs)
+    except (TypeError, ValueError):
+        st.plotly_chart(fig, use_container_width=True, **kwargs)
+
+
 # -----------------------------------------------------------------------------
 # 1. Custom Cyber / Glassmorphic CSS Theme Injection
 # -----------------------------------------------------------------------------
@@ -723,7 +739,7 @@ def main():
                 "Dense Score": f"{cand.dense_score:.4f}",
                 "Status": cand.status.value.upper(),
             })
-        st.dataframe(c_table_rows, width="stretch")
+        _compat_dataframe(c_table_rows)
 
     # -------------------------------------------------------------------------
     # TAB 2: 2D Embedding Manifold & Vector Forensics
@@ -736,7 +752,7 @@ def main():
         )
 
         fig_pca = plotter.plot_embedding_space_2d(pool)
-        st.plotly_chart(fig_pca, width="stretch")
+        _compat_plotly_chart(fig_pca)
 
         st.markdown("#### 🧭 Dense vs. Sparse Rank Disagreement Forensics")
         forensic_rows = []
@@ -754,7 +770,7 @@ def main():
                 "Stage 1 Risk": f"{cand.stage1_risk:.3f}",
                 "Final Risk": f"{cand.final_risk:.3f}",
             })
-        st.dataframe(forensic_rows, width="stretch")
+        _compat_dataframe(forensic_rows)
 
     # -------------------------------------------------------------------------
     # TAB 3: Explainable Document Scorecards (XAI Inspector)
@@ -835,7 +851,7 @@ def main():
                 with c_card_right:
                     st.markdown("##### 5-Axis Anomaly Radar")
                     fig_radar = plotter.plot_candidate_radar(cand)
-                    st.plotly_chart(fig_radar, width="stretch")
+                    _compat_plotly_chart(fig_radar)
 
     # -------------------------------------------------------------------------
     # TAB 4: Red-Team Ablations & Security-Utility Frontier
@@ -852,14 +868,14 @@ def main():
         col_f1, col_f2 = st.columns([1, 1])
         with col_f1:
             fig_frontier = plotter.plot_security_utility_frontier(sweep_data)
-            st.plotly_chart(fig_frontier, width="stretch")
+            _compat_plotly_chart(fig_frontier)
         with col_f2:
             fig_bars = plotter.plot_ablation_bars(ablation_data)
-            st.plotly_chart(fig_bars, width="stretch")
+            _compat_plotly_chart(fig_bars)
 
         st.markdown("#### 🔥 Attack Tier vs. Defense Generation ASR Heatmap")
         fig_heat = plotter.plot_ablation_heatmap(ablation_data)
-        st.plotly_chart(fig_heat, width="stretch")
+        _compat_plotly_chart(fig_heat)
 
         # Download Audit Report
         st.markdown("#### 📥 Export Enterprise Security Audit Report")
