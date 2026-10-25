@@ -153,10 +153,63 @@ class CorpusInjector:
         Returns:
             Tuple of (clean_corpus, queries).
         """
+        corpus_jsonl_path = os.path.join(data_dir, "corpus.jsonl")
+        queries_jsonl_path = os.path.join(data_dir, "queries.jsonl")
         corpus_path = os.path.join(data_dir, "corpus.json")
         queries_path = os.path.join(data_dir, "queries.json")
 
-        # 1. Try loading from existing cache
+        # 1. Try loading from real persisted BEIR-NQ JSONL files
+        if os.path.exists(corpus_jsonl_path) and os.path.exists(queries_jsonl_path):
+            try:
+                corpus: List[CorpusDocument] = []
+                with open(corpus_jsonl_path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        d = json.loads(line)
+                        meta = d.get("metadata", {})
+                        corpus.append(
+                            CorpusDocument(
+                                doc_id=d.get("_id") or d.get("doc_id", ""),
+                                title=d.get("title", ""),
+                                text=d.get("text", ""),
+                                is_poisoned=meta.get("is_poisoned", d.get("is_poisoned", False)),
+                                attack_type=AttackType(meta.get("attack_type", d.get("attack_type", "clean"))),
+                                target_query_id=meta.get("target_query_id", d.get("target_query_id")),
+                            )
+                        )
+
+                queries: List[QuerySample] = []
+                with open(queries_jsonl_path, "r", encoding="utf-8") as f:
+                    for line in f:
+                        line = line.strip()
+                        if not line:
+                            continue
+                        q = json.loads(line)
+                        meta = q.get("metadata", {})
+                        queries.append(
+                            QuerySample(
+                                query_id=q.get("_id") or q.get("query_id", ""),
+                                question=q.get("text") or q.get("question", ""),
+                                ground_truth_answers=meta.get("ground_truth_answers", q.get("ground_truth_answers", [])),
+                                target_fake_answer=meta.get("target_fake_answer", q.get("target_fake_answer")),
+                            )
+                        )
+
+                if len(corpus) > 0 and len(queries) > 0:
+                    selected_queries = queries[:num_queries] if num_queries else queries
+                    if num_queries and num_queries < len(queries):
+                        subset_docs = min(len(corpus), max(150, num_queries * 6))
+                        selected_corpus = corpus[:subset_docs]
+                    else:
+                        selected_corpus = corpus
+                    return selected_corpus, selected_queries
+            except Exception:
+                # Fall through if reading fails
+                pass
+
+        # 2. Try loading from existing JSON array cache
         if os.path.exists(corpus_path) and os.path.exists(queries_path):
             try:
                 with open(corpus_path, "r", encoding="utf-8") as f:
@@ -190,7 +243,7 @@ class CorpusInjector:
                 # If cache read fails, re-generate below
                 pass
 
-        # 2. Generate self-contained factual Wikipedia QA mini-benchmark
+        # 3. Generate self-contained factual Wikipedia QA mini-benchmark
         raw_queries_data, raw_docs_data = _build_sample_benchmark_definitions()
 
         corpus: List[CorpusDocument] = [
@@ -215,7 +268,7 @@ class CorpusInjector:
             for q in raw_queries_data[:num_queries]
         ]
 
-        # 3. Cache to disk if requested
+        # 4. Cache to disk if requested
         if save_to_disk:
             try:
                 os.makedirs(data_dir, exist_ok=True)
@@ -264,6 +317,13 @@ class CorpusInjector:
 
         Requires an active internet connection and may take several minutes to download ~5GB.
         """
+        # Attempt streaming fast subset preparation first
+        try:
+            from scripts.prepare_beir_nq import fetch_beir_nq_subset
+            return fetch_beir_nq_subset(data_dir=output_dir)
+        except Exception:
+            pass
+
         try:
             import importlib
             GenericDataLoader = importlib.import_module("beir.datasets.data_loader").GenericDataLoader

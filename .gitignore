@@ -18,10 +18,22 @@ Thumbs.db
 .env
 *.env
 
-# Data artifacts (keep directory structure via .gitkeep)
-data/nq_subset/*
+# Data artifacts (track jsonl, json, and tsv files; ignore raw multi-gigabyte archives)
+*.zip
+*.tar.gz
+*.parquet
+*.parquet.tmp
+data/**/*.zip
+data/**/*.tar.gz
+data/**/*.parquet
+data/**/*.parquet.tmp
+data/**/*.tmp
+!data/nq_subset/*.jsonl
+!data/nq_subset/*.json
+!data/nq_subset/*.tsv
 !data/nq_subset/.gitkeep
-data/poisoned_datasets/*
+!data/poisoned_datasets/*.jsonl
+!data/poisoned_datasets/*.json
 !data/poisoned_datasets/.gitkeep
 
 # IDE and editor settings

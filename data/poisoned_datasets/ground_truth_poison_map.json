@@ -1,0 +1,5402 @@
+{
+  "nq_q_001": {
+    "tier1_basic": [
+      "poison_nq_q_001_tier1_1",
+      "poison_nq_q_001_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_001_tier2_1",
+      "poison_nq_q_001_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_001_tier3_1",
+      "poison_nq_q_001_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_001_tier4_1",
+      "poison_nq_q_001_tier4_2"
+    ]
+  },
+  "nq_q_002": {
+    "tier1_basic": [
+      "poison_nq_q_002_tier1_1",
+      "poison_nq_q_002_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_002_tier2_1",
+      "poison_nq_q_002_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_002_tier3_1",
+      "poison_nq_q_002_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_002_tier4_1",
+      "poison_nq_q_002_tier4_2"
+    ]
+  },
+  "nq_q_003": {
+    "tier1_basic": [
+      "poison_nq_q_003_tier1_1",
+      "poison_nq_q_003_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_003_tier2_1",
+      "poison_nq_q_003_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_003_tier3_1",
+      "poison_nq_q_003_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_003_tier4_1",
+      "poison_nq_q_003_tier4_2"
+    ]
+  },
+  "nq_q_004": {
+    "tier1_basic": [
+      "poison_nq_q_004_tier1_1",
+      "poison_nq_q_004_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_004_tier2_1",
+      "poison_nq_q_004_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_004_tier3_1",
+      "poison_nq_q_004_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_004_tier4_1",
+      "poison_nq_q_004_tier4_2"
+    ]
+  },
+  "nq_q_005": {
+    "tier1_basic": [
+      "poison_nq_q_005_tier1_1",
+      "poison_nq_q_005_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_005_tier2_1",
+      "poison_nq_q_005_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_005_tier3_1",
+      "poison_nq_q_005_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_005_tier4_1",
+      "poison_nq_q_005_tier4_2"
+    ]
+  },
+  "nq_q_006": {
+    "tier1_basic": [
+      "poison_nq_q_006_tier1_1",
+      "poison_nq_q_006_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_006_tier2_1",
+      "poison_nq_q_006_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_006_tier3_1",
+      "poison_nq_q_006_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_006_tier4_1",
+      "poison_nq_q_006_tier4_2"
+    ]
+  },
+  "nq_q_007": {
+    "tier1_basic": [
+      "poison_nq_q_007_tier1_1",
+      "poison_nq_q_007_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_007_tier2_1",
+      "poison_nq_q_007_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_007_tier3_1",
+      "poison_nq_q_007_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_007_tier4_1",
+      "poison_nq_q_007_tier4_2"
+    ]
+  },
+  "nq_q_008": {
+    "tier1_basic": [
+      "poison_nq_q_008_tier1_1",
+      "poison_nq_q_008_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_008_tier2_1",
+      "poison_nq_q_008_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_008_tier3_1",
+      "poison_nq_q_008_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_008_tier4_1",
+      "poison_nq_q_008_tier4_2"
+    ]
+  },
+  "nq_q_009": {
+    "tier1_basic": [
+      "poison_nq_q_009_tier1_1",
+      "poison_nq_q_009_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_009_tier2_1",
+      "poison_nq_q_009_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_009_tier3_1",
+      "poison_nq_q_009_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_009_tier4_1",
+      "poison_nq_q_009_tier4_2"
+    ]
+  },
+  "nq_q_010": {
+    "tier1_basic": [
+      "poison_nq_q_010_tier1_1",
+      "poison_nq_q_010_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_010_tier2_1",
+      "poison_nq_q_010_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_010_tier3_1",
+      "poison_nq_q_010_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_010_tier4_1",
+      "poison_nq_q_010_tier4_2"
+    ]
+  },
+  "nq_q_011": {
+    "tier1_basic": [
+      "poison_nq_q_011_tier1_1",
+      "poison_nq_q_011_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_011_tier2_1",
+      "poison_nq_q_011_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_011_tier3_1",
+      "poison_nq_q_011_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_011_tier4_1",
+      "poison_nq_q_011_tier4_2"
+    ]
+  },
+  "nq_q_012": {
+    "tier1_basic": [
+      "poison_nq_q_012_tier1_1",
+      "poison_nq_q_012_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_012_tier2_1",
+      "poison_nq_q_012_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_012_tier3_1",
+      "poison_nq_q_012_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_012_tier4_1",
+      "poison_nq_q_012_tier4_2"
+    ]
+  },
+  "nq_q_013": {
+    "tier1_basic": [
+      "poison_nq_q_013_tier1_1",
+      "poison_nq_q_013_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_013_tier2_1",
+      "poison_nq_q_013_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_013_tier3_1",
+      "poison_nq_q_013_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_013_tier4_1",
+      "poison_nq_q_013_tier4_2"
+    ]
+  },
+  "nq_q_014": {
+    "tier1_basic": [
+      "poison_nq_q_014_tier1_1",
+      "poison_nq_q_014_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_014_tier2_1",
+      "poison_nq_q_014_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_014_tier3_1",
+      "poison_nq_q_014_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_014_tier4_1",
+      "poison_nq_q_014_tier4_2"
+    ]
+  },
+  "nq_q_015": {
+    "tier1_basic": [
+      "poison_nq_q_015_tier1_1",
+      "poison_nq_q_015_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_015_tier2_1",
+      "poison_nq_q_015_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_015_tier3_1",
+      "poison_nq_q_015_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_015_tier4_1",
+      "poison_nq_q_015_tier4_2"
+    ]
+  },
+  "nq_q_016": {
+    "tier1_basic": [
+      "poison_nq_q_016_tier1_1",
+      "poison_nq_q_016_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_016_tier2_1",
+      "poison_nq_q_016_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_016_tier3_1",
+      "poison_nq_q_016_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_016_tier4_1",
+      "poison_nq_q_016_tier4_2"
+    ]
+  },
+  "nq_q_017": {
+    "tier1_basic": [
+      "poison_nq_q_017_tier1_1",
+      "poison_nq_q_017_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_017_tier2_1",
+      "poison_nq_q_017_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_017_tier3_1",
+      "poison_nq_q_017_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_017_tier4_1",
+      "poison_nq_q_017_tier4_2"
+    ]
+  },
+  "nq_q_018": {
+    "tier1_basic": [
+      "poison_nq_q_018_tier1_1",
+      "poison_nq_q_018_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_018_tier2_1",
+      "poison_nq_q_018_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_018_tier3_1",
+      "poison_nq_q_018_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_018_tier4_1",
+      "poison_nq_q_018_tier4_2"
+    ]
+  },
+  "nq_q_019": {
+    "tier1_basic": [
+      "poison_nq_q_019_tier1_1",
+      "poison_nq_q_019_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_019_tier2_1",
+      "poison_nq_q_019_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_019_tier3_1",
+      "poison_nq_q_019_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_019_tier4_1",
+      "poison_nq_q_019_tier4_2"
+    ]
+  },
+  "nq_q_020": {
+    "tier1_basic": [
+      "poison_nq_q_020_tier1_1",
+      "poison_nq_q_020_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_020_tier2_1",
+      "poison_nq_q_020_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_020_tier3_1",
+      "poison_nq_q_020_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_020_tier4_1",
+      "poison_nq_q_020_tier4_2"
+    ]
+  },
+  "nq_q_021": {
+    "tier1_basic": [
+      "poison_nq_q_021_tier1_1",
+      "poison_nq_q_021_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_021_tier2_1",
+      "poison_nq_q_021_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_021_tier3_1",
+      "poison_nq_q_021_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_021_tier4_1",
+      "poison_nq_q_021_tier4_2"
+    ]
+  },
+  "nq_q_022": {
+    "tier1_basic": [
+      "poison_nq_q_022_tier1_1",
+      "poison_nq_q_022_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_022_tier2_1",
+      "poison_nq_q_022_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_022_tier3_1",
+      "poison_nq_q_022_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_022_tier4_1",
+      "poison_nq_q_022_tier4_2"
+    ]
+  },
+  "nq_q_023": {
+    "tier1_basic": [
+      "poison_nq_q_023_tier1_1",
+      "poison_nq_q_023_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_023_tier2_1",
+      "poison_nq_q_023_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_023_tier3_1",
+      "poison_nq_q_023_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_023_tier4_1",
+      "poison_nq_q_023_tier4_2"
+    ]
+  },
+  "nq_q_024": {
+    "tier1_basic": [
+      "poison_nq_q_024_tier1_1",
+      "poison_nq_q_024_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_024_tier2_1",
+      "poison_nq_q_024_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_024_tier3_1",
+      "poison_nq_q_024_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_024_tier4_1",
+      "poison_nq_q_024_tier4_2"
+    ]
+  },
+  "nq_q_025": {
+    "tier1_basic": [
+      "poison_nq_q_025_tier1_1",
+      "poison_nq_q_025_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_025_tier2_1",
+      "poison_nq_q_025_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_025_tier3_1",
+      "poison_nq_q_025_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_025_tier4_1",
+      "poison_nq_q_025_tier4_2"
+    ]
+  },
+  "nq_q_026": {
+    "tier1_basic": [
+      "poison_nq_q_026_tier1_1",
+      "poison_nq_q_026_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_026_tier2_1",
+      "poison_nq_q_026_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_026_tier3_1",
+      "poison_nq_q_026_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_026_tier4_1",
+      "poison_nq_q_026_tier4_2"
+    ]
+  },
+  "nq_q_027": {
+    "tier1_basic": [
+      "poison_nq_q_027_tier1_1",
+      "poison_nq_q_027_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_027_tier2_1",
+      "poison_nq_q_027_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_027_tier3_1",
+      "poison_nq_q_027_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_027_tier4_1",
+      "poison_nq_q_027_tier4_2"
+    ]
+  },
+  "nq_q_028": {
+    "tier1_basic": [
+      "poison_nq_q_028_tier1_1",
+      "poison_nq_q_028_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_028_tier2_1",
+      "poison_nq_q_028_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_028_tier3_1",
+      "poison_nq_q_028_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_028_tier4_1",
+      "poison_nq_q_028_tier4_2"
+    ]
+  },
+  "nq_q_029": {
+    "tier1_basic": [
+      "poison_nq_q_029_tier1_1",
+      "poison_nq_q_029_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_029_tier2_1",
+      "poison_nq_q_029_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_029_tier3_1",
+      "poison_nq_q_029_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_029_tier4_1",
+      "poison_nq_q_029_tier4_2"
+    ]
+  },
+  "nq_q_030": {
+    "tier1_basic": [
+      "poison_nq_q_030_tier1_1",
+      "poison_nq_q_030_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_030_tier2_1",
+      "poison_nq_q_030_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_030_tier3_1",
+      "poison_nq_q_030_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_030_tier4_1",
+      "poison_nq_q_030_tier4_2"
+    ]
+  },
+  "nq_q_031": {
+    "tier1_basic": [
+      "poison_nq_q_031_tier1_1",
+      "poison_nq_q_031_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_031_tier2_1",
+      "poison_nq_q_031_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_031_tier3_1",
+      "poison_nq_q_031_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_031_tier4_1",
+      "poison_nq_q_031_tier4_2"
+    ]
+  },
+  "nq_q_032": {
+    "tier1_basic": [
+      "poison_nq_q_032_tier1_1",
+      "poison_nq_q_032_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_032_tier2_1",
+      "poison_nq_q_032_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_032_tier3_1",
+      "poison_nq_q_032_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_032_tier4_1",
+      "poison_nq_q_032_tier4_2"
+    ]
+  },
+  "nq_q_033": {
+    "tier1_basic": [
+      "poison_nq_q_033_tier1_1",
+      "poison_nq_q_033_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_033_tier2_1",
+      "poison_nq_q_033_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_033_tier3_1",
+      "poison_nq_q_033_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_033_tier4_1",
+      "poison_nq_q_033_tier4_2"
+    ]
+  },
+  "nq_q_034": {
+    "tier1_basic": [
+      "poison_nq_q_034_tier1_1",
+      "poison_nq_q_034_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_034_tier2_1",
+      "poison_nq_q_034_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_034_tier3_1",
+      "poison_nq_q_034_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_034_tier4_1",
+      "poison_nq_q_034_tier4_2"
+    ]
+  },
+  "nq_q_035": {
+    "tier1_basic": [
+      "poison_nq_q_035_tier1_1",
+      "poison_nq_q_035_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_035_tier2_1",
+      "poison_nq_q_035_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_035_tier3_1",
+      "poison_nq_q_035_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_035_tier4_1",
+      "poison_nq_q_035_tier4_2"
+    ]
+  },
+  "nq_q_036": {
+    "tier1_basic": [
+      "poison_nq_q_036_tier1_1",
+      "poison_nq_q_036_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_036_tier2_1",
+      "poison_nq_q_036_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_036_tier3_1",
+      "poison_nq_q_036_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_036_tier4_1",
+      "poison_nq_q_036_tier4_2"
+    ]
+  },
+  "nq_q_037": {
+    "tier1_basic": [
+      "poison_nq_q_037_tier1_1",
+      "poison_nq_q_037_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_037_tier2_1",
+      "poison_nq_q_037_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_037_tier3_1",
+      "poison_nq_q_037_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_037_tier4_1",
+      "poison_nq_q_037_tier4_2"
+    ]
+  },
+  "nq_q_038": {
+    "tier1_basic": [
+      "poison_nq_q_038_tier1_1",
+      "poison_nq_q_038_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_038_tier2_1",
+      "poison_nq_q_038_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_038_tier3_1",
+      "poison_nq_q_038_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_038_tier4_1",
+      "poison_nq_q_038_tier4_2"
+    ]
+  },
+  "nq_q_039": {
+    "tier1_basic": [
+      "poison_nq_q_039_tier1_1",
+      "poison_nq_q_039_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_039_tier2_1",
+      "poison_nq_q_039_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_039_tier3_1",
+      "poison_nq_q_039_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_039_tier4_1",
+      "poison_nq_q_039_tier4_2"
+    ]
+  },
+  "nq_q_040": {
+    "tier1_basic": [
+      "poison_nq_q_040_tier1_1",
+      "poison_nq_q_040_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_040_tier2_1",
+      "poison_nq_q_040_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_040_tier3_1",
+      "poison_nq_q_040_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_040_tier4_1",
+      "poison_nq_q_040_tier4_2"
+    ]
+  },
+  "nq_q_041": {
+    "tier1_basic": [
+      "poison_nq_q_041_tier1_1",
+      "poison_nq_q_041_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_041_tier2_1",
+      "poison_nq_q_041_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_041_tier3_1",
+      "poison_nq_q_041_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_041_tier4_1",
+      "poison_nq_q_041_tier4_2"
+    ]
+  },
+  "nq_q_042": {
+    "tier1_basic": [
+      "poison_nq_q_042_tier1_1",
+      "poison_nq_q_042_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_042_tier2_1",
+      "poison_nq_q_042_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_042_tier3_1",
+      "poison_nq_q_042_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_042_tier4_1",
+      "poison_nq_q_042_tier4_2"
+    ]
+  },
+  "nq_q_043": {
+    "tier1_basic": [
+      "poison_nq_q_043_tier1_1",
+      "poison_nq_q_043_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_043_tier2_1",
+      "poison_nq_q_043_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_043_tier3_1",
+      "poison_nq_q_043_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_043_tier4_1",
+      "poison_nq_q_043_tier4_2"
+    ]
+  },
+  "nq_q_044": {
+    "tier1_basic": [
+      "poison_nq_q_044_tier1_1",
+      "poison_nq_q_044_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_044_tier2_1",
+      "poison_nq_q_044_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_044_tier3_1",
+      "poison_nq_q_044_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_044_tier4_1",
+      "poison_nq_q_044_tier4_2"
+    ]
+  },
+  "nq_q_045": {
+    "tier1_basic": [
+      "poison_nq_q_045_tier1_1",
+      "poison_nq_q_045_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_045_tier2_1",
+      "poison_nq_q_045_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_045_tier3_1",
+      "poison_nq_q_045_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_045_tier4_1",
+      "poison_nq_q_045_tier4_2"
+    ]
+  },
+  "nq_q_046": {
+    "tier1_basic": [
+      "poison_nq_q_046_tier1_1",
+      "poison_nq_q_046_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_046_tier2_1",
+      "poison_nq_q_046_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_046_tier3_1",
+      "poison_nq_q_046_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_046_tier4_1",
+      "poison_nq_q_046_tier4_2"
+    ]
+  },
+  "nq_q_047": {
+    "tier1_basic": [
+      "poison_nq_q_047_tier1_1",
+      "poison_nq_q_047_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_047_tier2_1",
+      "poison_nq_q_047_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_047_tier3_1",
+      "poison_nq_q_047_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_047_tier4_1",
+      "poison_nq_q_047_tier4_2"
+    ]
+  },
+  "nq_q_048": {
+    "tier1_basic": [
+      "poison_nq_q_048_tier1_1",
+      "poison_nq_q_048_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_048_tier2_1",
+      "poison_nq_q_048_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_048_tier3_1",
+      "poison_nq_q_048_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_048_tier4_1",
+      "poison_nq_q_048_tier4_2"
+    ]
+  },
+  "nq_q_049": {
+    "tier1_basic": [
+      "poison_nq_q_049_tier1_1",
+      "poison_nq_q_049_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_049_tier2_1",
+      "poison_nq_q_049_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_049_tier3_1",
+      "poison_nq_q_049_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_049_tier4_1",
+      "poison_nq_q_049_tier4_2"
+    ]
+  },
+  "nq_q_050": {
+    "tier1_basic": [
+      "poison_nq_q_050_tier1_1",
+      "poison_nq_q_050_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_050_tier2_1",
+      "poison_nq_q_050_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_050_tier3_1",
+      "poison_nq_q_050_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_050_tier4_1",
+      "poison_nq_q_050_tier4_2"
+    ]
+  },
+  "nq_q_051": {
+    "tier1_basic": [
+      "poison_nq_q_051_tier1_1",
+      "poison_nq_q_051_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_051_tier2_1",
+      "poison_nq_q_051_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_051_tier3_1",
+      "poison_nq_q_051_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_051_tier4_1",
+      "poison_nq_q_051_tier4_2"
+    ]
+  },
+  "nq_q_052": {
+    "tier1_basic": [
+      "poison_nq_q_052_tier1_1",
+      "poison_nq_q_052_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_052_tier2_1",
+      "poison_nq_q_052_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_052_tier3_1",
+      "poison_nq_q_052_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_052_tier4_1",
+      "poison_nq_q_052_tier4_2"
+    ]
+  },
+  "nq_q_053": {
+    "tier1_basic": [
+      "poison_nq_q_053_tier1_1",
+      "poison_nq_q_053_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_053_tier2_1",
+      "poison_nq_q_053_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_053_tier3_1",
+      "poison_nq_q_053_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_053_tier4_1",
+      "poison_nq_q_053_tier4_2"
+    ]
+  },
+  "nq_q_054": {
+    "tier1_basic": [
+      "poison_nq_q_054_tier1_1",
+      "poison_nq_q_054_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_054_tier2_1",
+      "poison_nq_q_054_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_054_tier3_1",
+      "poison_nq_q_054_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_054_tier4_1",
+      "poison_nq_q_054_tier4_2"
+    ]
+  },
+  "nq_q_055": {
+    "tier1_basic": [
+      "poison_nq_q_055_tier1_1",
+      "poison_nq_q_055_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_055_tier2_1",
+      "poison_nq_q_055_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_055_tier3_1",
+      "poison_nq_q_055_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_055_tier4_1",
+      "poison_nq_q_055_tier4_2"
+    ]
+  },
+  "nq_q_056": {
+    "tier1_basic": [
+      "poison_nq_q_056_tier1_1",
+      "poison_nq_q_056_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_056_tier2_1",
+      "poison_nq_q_056_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_056_tier3_1",
+      "poison_nq_q_056_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_056_tier4_1",
+      "poison_nq_q_056_tier4_2"
+    ]
+  },
+  "nq_q_057": {
+    "tier1_basic": [
+      "poison_nq_q_057_tier1_1",
+      "poison_nq_q_057_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_057_tier2_1",
+      "poison_nq_q_057_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_057_tier3_1",
+      "poison_nq_q_057_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_057_tier4_1",
+      "poison_nq_q_057_tier4_2"
+    ]
+  },
+  "nq_q_058": {
+    "tier1_basic": [
+      "poison_nq_q_058_tier1_1",
+      "poison_nq_q_058_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_058_tier2_1",
+      "poison_nq_q_058_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_058_tier3_1",
+      "poison_nq_q_058_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_058_tier4_1",
+      "poison_nq_q_058_tier4_2"
+    ]
+  },
+  "nq_q_059": {
+    "tier1_basic": [
+      "poison_nq_q_059_tier1_1",
+      "poison_nq_q_059_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_059_tier2_1",
+      "poison_nq_q_059_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_059_tier3_1",
+      "poison_nq_q_059_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_059_tier4_1",
+      "poison_nq_q_059_tier4_2"
+    ]
+  },
+  "nq_q_060": {
+    "tier1_basic": [
+      "poison_nq_q_060_tier1_1",
+      "poison_nq_q_060_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_060_tier2_1",
+      "poison_nq_q_060_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_060_tier3_1",
+      "poison_nq_q_060_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_060_tier4_1",
+      "poison_nq_q_060_tier4_2"
+    ]
+  },
+  "nq_q_061": {
+    "tier1_basic": [
+      "poison_nq_q_061_tier1_1",
+      "poison_nq_q_061_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_061_tier2_1",
+      "poison_nq_q_061_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_061_tier3_1",
+      "poison_nq_q_061_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_061_tier4_1",
+      "poison_nq_q_061_tier4_2"
+    ]
+  },
+  "nq_q_062": {
+    "tier1_basic": [
+      "poison_nq_q_062_tier1_1",
+      "poison_nq_q_062_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_062_tier2_1",
+      "poison_nq_q_062_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_062_tier3_1",
+      "poison_nq_q_062_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_062_tier4_1",
+      "poison_nq_q_062_tier4_2"
+    ]
+  },
+  "nq_q_063": {
+    "tier1_basic": [
+      "poison_nq_q_063_tier1_1",
+      "poison_nq_q_063_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_063_tier2_1",
+      "poison_nq_q_063_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_063_tier3_1",
+      "poison_nq_q_063_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_063_tier4_1",
+      "poison_nq_q_063_tier4_2"
+    ]
+  },
+  "nq_q_064": {
+    "tier1_basic": [
+      "poison_nq_q_064_tier1_1",
+      "poison_nq_q_064_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_064_tier2_1",
+      "poison_nq_q_064_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_064_tier3_1",
+      "poison_nq_q_064_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_064_tier4_1",
+      "poison_nq_q_064_tier4_2"
+    ]
+  },
+  "nq_q_065": {
+    "tier1_basic": [
+      "poison_nq_q_065_tier1_1",
+      "poison_nq_q_065_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_065_tier2_1",
+      "poison_nq_q_065_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_065_tier3_1",
+      "poison_nq_q_065_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_065_tier4_1",
+      "poison_nq_q_065_tier4_2"
+    ]
+  },
+  "nq_q_066": {
+    "tier1_basic": [
+      "poison_nq_q_066_tier1_1",
+      "poison_nq_q_066_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_066_tier2_1",
+      "poison_nq_q_066_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_066_tier3_1",
+      "poison_nq_q_066_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_066_tier4_1",
+      "poison_nq_q_066_tier4_2"
+    ]
+  },
+  "nq_q_067": {
+    "tier1_basic": [
+      "poison_nq_q_067_tier1_1",
+      "poison_nq_q_067_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_067_tier2_1",
+      "poison_nq_q_067_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_067_tier3_1",
+      "poison_nq_q_067_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_067_tier4_1",
+      "poison_nq_q_067_tier4_2"
+    ]
+  },
+  "nq_q_068": {
+    "tier1_basic": [
+      "poison_nq_q_068_tier1_1",
+      "poison_nq_q_068_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_068_tier2_1",
+      "poison_nq_q_068_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_068_tier3_1",
+      "poison_nq_q_068_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_068_tier4_1",
+      "poison_nq_q_068_tier4_2"
+    ]
+  },
+  "nq_q_069": {
+    "tier1_basic": [
+      "poison_nq_q_069_tier1_1",
+      "poison_nq_q_069_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_069_tier2_1",
+      "poison_nq_q_069_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_069_tier3_1",
+      "poison_nq_q_069_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_069_tier4_1",
+      "poison_nq_q_069_tier4_2"
+    ]
+  },
+  "nq_q_070": {
+    "tier1_basic": [
+      "poison_nq_q_070_tier1_1",
+      "poison_nq_q_070_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_070_tier2_1",
+      "poison_nq_q_070_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_070_tier3_1",
+      "poison_nq_q_070_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_070_tier4_1",
+      "poison_nq_q_070_tier4_2"
+    ]
+  },
+  "nq_q_071": {
+    "tier1_basic": [
+      "poison_nq_q_071_tier1_1",
+      "poison_nq_q_071_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_071_tier2_1",
+      "poison_nq_q_071_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_071_tier3_1",
+      "poison_nq_q_071_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_071_tier4_1",
+      "poison_nq_q_071_tier4_2"
+    ]
+  },
+  "nq_q_072": {
+    "tier1_basic": [
+      "poison_nq_q_072_tier1_1",
+      "poison_nq_q_072_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_072_tier2_1",
+      "poison_nq_q_072_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_072_tier3_1",
+      "poison_nq_q_072_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_072_tier4_1",
+      "poison_nq_q_072_tier4_2"
+    ]
+  },
+  "nq_q_073": {
+    "tier1_basic": [
+      "poison_nq_q_073_tier1_1",
+      "poison_nq_q_073_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_073_tier2_1",
+      "poison_nq_q_073_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_073_tier3_1",
+      "poison_nq_q_073_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_073_tier4_1",
+      "poison_nq_q_073_tier4_2"
+    ]
+  },
+  "nq_q_074": {
+    "tier1_basic": [
+      "poison_nq_q_074_tier1_1",
+      "poison_nq_q_074_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_074_tier2_1",
+      "poison_nq_q_074_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_074_tier3_1",
+      "poison_nq_q_074_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_074_tier4_1",
+      "poison_nq_q_074_tier4_2"
+    ]
+  },
+  "nq_q_075": {
+    "tier1_basic": [
+      "poison_nq_q_075_tier1_1",
+      "poison_nq_q_075_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_075_tier2_1",
+      "poison_nq_q_075_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_075_tier3_1",
+      "poison_nq_q_075_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_075_tier4_1",
+      "poison_nq_q_075_tier4_2"
+    ]
+  },
+  "nq_q_076": {
+    "tier1_basic": [
+      "poison_nq_q_076_tier1_1",
+      "poison_nq_q_076_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_076_tier2_1",
+      "poison_nq_q_076_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_076_tier3_1",
+      "poison_nq_q_076_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_076_tier4_1",
+      "poison_nq_q_076_tier4_2"
+    ]
+  },
+  "nq_q_077": {
+    "tier1_basic": [
+      "poison_nq_q_077_tier1_1",
+      "poison_nq_q_077_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_077_tier2_1",
+      "poison_nq_q_077_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_077_tier3_1",
+      "poison_nq_q_077_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_077_tier4_1",
+      "poison_nq_q_077_tier4_2"
+    ]
+  },
+  "nq_q_078": {
+    "tier1_basic": [
+      "poison_nq_q_078_tier1_1",
+      "poison_nq_q_078_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_078_tier2_1",
+      "poison_nq_q_078_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_078_tier3_1",
+      "poison_nq_q_078_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_078_tier4_1",
+      "poison_nq_q_078_tier4_2"
+    ]
+  },
+  "nq_q_079": {
+    "tier1_basic": [
+      "poison_nq_q_079_tier1_1",
+      "poison_nq_q_079_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_079_tier2_1",
+      "poison_nq_q_079_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_079_tier3_1",
+      "poison_nq_q_079_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_079_tier4_1",
+      "poison_nq_q_079_tier4_2"
+    ]
+  },
+  "nq_q_080": {
+    "tier1_basic": [
+      "poison_nq_q_080_tier1_1",
+      "poison_nq_q_080_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_080_tier2_1",
+      "poison_nq_q_080_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_080_tier3_1",
+      "poison_nq_q_080_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_080_tier4_1",
+      "poison_nq_q_080_tier4_2"
+    ]
+  },
+  "nq_q_081": {
+    "tier1_basic": [
+      "poison_nq_q_081_tier1_1",
+      "poison_nq_q_081_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_081_tier2_1",
+      "poison_nq_q_081_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_081_tier3_1",
+      "poison_nq_q_081_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_081_tier4_1",
+      "poison_nq_q_081_tier4_2"
+    ]
+  },
+  "nq_q_082": {
+    "tier1_basic": [
+      "poison_nq_q_082_tier1_1",
+      "poison_nq_q_082_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_082_tier2_1",
+      "poison_nq_q_082_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_082_tier3_1",
+      "poison_nq_q_082_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_082_tier4_1",
+      "poison_nq_q_082_tier4_2"
+    ]
+  },
+  "nq_q_083": {
+    "tier1_basic": [
+      "poison_nq_q_083_tier1_1",
+      "poison_nq_q_083_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_083_tier2_1",
+      "poison_nq_q_083_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_083_tier3_1",
+      "poison_nq_q_083_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_083_tier4_1",
+      "poison_nq_q_083_tier4_2"
+    ]
+  },
+  "nq_q_084": {
+    "tier1_basic": [
+      "poison_nq_q_084_tier1_1",
+      "poison_nq_q_084_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_084_tier2_1",
+      "poison_nq_q_084_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_084_tier3_1",
+      "poison_nq_q_084_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_084_tier4_1",
+      "poison_nq_q_084_tier4_2"
+    ]
+  },
+  "nq_q_085": {
+    "tier1_basic": [
+      "poison_nq_q_085_tier1_1",
+      "poison_nq_q_085_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_085_tier2_1",
+      "poison_nq_q_085_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_085_tier3_1",
+      "poison_nq_q_085_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_085_tier4_1",
+      "poison_nq_q_085_tier4_2"
+    ]
+  },
+  "nq_q_086": {
+    "tier1_basic": [
+      "poison_nq_q_086_tier1_1",
+      "poison_nq_q_086_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_086_tier2_1",
+      "poison_nq_q_086_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_086_tier3_1",
+      "poison_nq_q_086_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_086_tier4_1",
+      "poison_nq_q_086_tier4_2"
+    ]
+  },
+  "nq_q_087": {
+    "tier1_basic": [
+      "poison_nq_q_087_tier1_1",
+      "poison_nq_q_087_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_087_tier2_1",
+      "poison_nq_q_087_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_087_tier3_1",
+      "poison_nq_q_087_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_087_tier4_1",
+      "poison_nq_q_087_tier4_2"
+    ]
+  },
+  "nq_q_088": {
+    "tier1_basic": [
+      "poison_nq_q_088_tier1_1",
+      "poison_nq_q_088_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_088_tier2_1",
+      "poison_nq_q_088_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_088_tier3_1",
+      "poison_nq_q_088_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_088_tier4_1",
+      "poison_nq_q_088_tier4_2"
+    ]
+  },
+  "nq_q_089": {
+    "tier1_basic": [
+      "poison_nq_q_089_tier1_1",
+      "poison_nq_q_089_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_089_tier2_1",
+      "poison_nq_q_089_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_089_tier3_1",
+      "poison_nq_q_089_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_089_tier4_1",
+      "poison_nq_q_089_tier4_2"
+    ]
+  },
+  "nq_q_090": {
+    "tier1_basic": [
+      "poison_nq_q_090_tier1_1",
+      "poison_nq_q_090_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_090_tier2_1",
+      "poison_nq_q_090_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_090_tier3_1",
+      "poison_nq_q_090_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_090_tier4_1",
+      "poison_nq_q_090_tier4_2"
+    ]
+  },
+  "nq_q_091": {
+    "tier1_basic": [
+      "poison_nq_q_091_tier1_1",
+      "poison_nq_q_091_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_091_tier2_1",
+      "poison_nq_q_091_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_091_tier3_1",
+      "poison_nq_q_091_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_091_tier4_1",
+      "poison_nq_q_091_tier4_2"
+    ]
+  },
+  "nq_q_092": {
+    "tier1_basic": [
+      "poison_nq_q_092_tier1_1",
+      "poison_nq_q_092_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_092_tier2_1",
+      "poison_nq_q_092_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_092_tier3_1",
+      "poison_nq_q_092_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_092_tier4_1",
+      "poison_nq_q_092_tier4_2"
+    ]
+  },
+  "nq_q_093": {
+    "tier1_basic": [
+      "poison_nq_q_093_tier1_1",
+      "poison_nq_q_093_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_093_tier2_1",
+      "poison_nq_q_093_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_093_tier3_1",
+      "poison_nq_q_093_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_093_tier4_1",
+      "poison_nq_q_093_tier4_2"
+    ]
+  },
+  "nq_q_094": {
+    "tier1_basic": [
+      "poison_nq_q_094_tier1_1",
+      "poison_nq_q_094_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_094_tier2_1",
+      "poison_nq_q_094_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_094_tier3_1",
+      "poison_nq_q_094_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_094_tier4_1",
+      "poison_nq_q_094_tier4_2"
+    ]
+  },
+  "nq_q_095": {
+    "tier1_basic": [
+      "poison_nq_q_095_tier1_1",
+      "poison_nq_q_095_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_095_tier2_1",
+      "poison_nq_q_095_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_095_tier3_1",
+      "poison_nq_q_095_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_095_tier4_1",
+      "poison_nq_q_095_tier4_2"
+    ]
+  },
+  "nq_q_096": {
+    "tier1_basic": [
+      "poison_nq_q_096_tier1_1",
+      "poison_nq_q_096_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_096_tier2_1",
+      "poison_nq_q_096_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_096_tier3_1",
+      "poison_nq_q_096_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_096_tier4_1",
+      "poison_nq_q_096_tier4_2"
+    ]
+  },
+  "nq_q_097": {
+    "tier1_basic": [
+      "poison_nq_q_097_tier1_1",
+      "poison_nq_q_097_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_097_tier2_1",
+      "poison_nq_q_097_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_097_tier3_1",
+      "poison_nq_q_097_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_097_tier4_1",
+      "poison_nq_q_097_tier4_2"
+    ]
+  },
+  "nq_q_098": {
+    "tier1_basic": [
+      "poison_nq_q_098_tier1_1",
+      "poison_nq_q_098_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_098_tier2_1",
+      "poison_nq_q_098_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_098_tier3_1",
+      "poison_nq_q_098_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_098_tier4_1",
+      "poison_nq_q_098_tier4_2"
+    ]
+  },
+  "nq_q_099": {
+    "tier1_basic": [
+      "poison_nq_q_099_tier1_1",
+      "poison_nq_q_099_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_099_tier2_1",
+      "poison_nq_q_099_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_099_tier3_1",
+      "poison_nq_q_099_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_099_tier4_1",
+      "poison_nq_q_099_tier4_2"
+    ]
+  },
+  "nq_q_100": {
+    "tier1_basic": [
+      "poison_nq_q_100_tier1_1",
+      "poison_nq_q_100_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_100_tier2_1",
+      "poison_nq_q_100_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_100_tier3_1",
+      "poison_nq_q_100_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_100_tier4_1",
+      "poison_nq_q_100_tier4_2"
+    ]
+  },
+  "nq_q_101": {
+    "tier1_basic": [
+      "poison_nq_q_101_tier1_1",
+      "poison_nq_q_101_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_101_tier2_1",
+      "poison_nq_q_101_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_101_tier3_1",
+      "poison_nq_q_101_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_101_tier4_1",
+      "poison_nq_q_101_tier4_2"
+    ]
+  },
+  "nq_q_102": {
+    "tier1_basic": [
+      "poison_nq_q_102_tier1_1",
+      "poison_nq_q_102_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_102_tier2_1",
+      "poison_nq_q_102_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_102_tier3_1",
+      "poison_nq_q_102_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_102_tier4_1",
+      "poison_nq_q_102_tier4_2"
+    ]
+  },
+  "nq_q_103": {
+    "tier1_basic": [
+      "poison_nq_q_103_tier1_1",
+      "poison_nq_q_103_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_103_tier2_1",
+      "poison_nq_q_103_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_103_tier3_1",
+      "poison_nq_q_103_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_103_tier4_1",
+      "poison_nq_q_103_tier4_2"
+    ]
+  },
+  "nq_q_104": {
+    "tier1_basic": [
+      "poison_nq_q_104_tier1_1",
+      "poison_nq_q_104_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_104_tier2_1",
+      "poison_nq_q_104_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_104_tier3_1",
+      "poison_nq_q_104_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_104_tier4_1",
+      "poison_nq_q_104_tier4_2"
+    ]
+  },
+  "nq_q_105": {
+    "tier1_basic": [
+      "poison_nq_q_105_tier1_1",
+      "poison_nq_q_105_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_105_tier2_1",
+      "poison_nq_q_105_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_105_tier3_1",
+      "poison_nq_q_105_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_105_tier4_1",
+      "poison_nq_q_105_tier4_2"
+    ]
+  },
+  "nq_q_106": {
+    "tier1_basic": [
+      "poison_nq_q_106_tier1_1",
+      "poison_nq_q_106_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_106_tier2_1",
+      "poison_nq_q_106_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_106_tier3_1",
+      "poison_nq_q_106_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_106_tier4_1",
+      "poison_nq_q_106_tier4_2"
+    ]
+  },
+  "nq_q_107": {
+    "tier1_basic": [
+      "poison_nq_q_107_tier1_1",
+      "poison_nq_q_107_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_107_tier2_1",
+      "poison_nq_q_107_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_107_tier3_1",
+      "poison_nq_q_107_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_107_tier4_1",
+      "poison_nq_q_107_tier4_2"
+    ]
+  },
+  "nq_q_108": {
+    "tier1_basic": [
+      "poison_nq_q_108_tier1_1",
+      "poison_nq_q_108_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_108_tier2_1",
+      "poison_nq_q_108_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_108_tier3_1",
+      "poison_nq_q_108_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_108_tier4_1",
+      "poison_nq_q_108_tier4_2"
+    ]
+  },
+  "nq_q_109": {
+    "tier1_basic": [
+      "poison_nq_q_109_tier1_1",
+      "poison_nq_q_109_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_109_tier2_1",
+      "poison_nq_q_109_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_109_tier3_1",
+      "poison_nq_q_109_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_109_tier4_1",
+      "poison_nq_q_109_tier4_2"
+    ]
+  },
+  "nq_q_110": {
+    "tier1_basic": [
+      "poison_nq_q_110_tier1_1",
+      "poison_nq_q_110_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_110_tier2_1",
+      "poison_nq_q_110_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_110_tier3_1",
+      "poison_nq_q_110_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_110_tier4_1",
+      "poison_nq_q_110_tier4_2"
+    ]
+  },
+  "nq_q_111": {
+    "tier1_basic": [
+      "poison_nq_q_111_tier1_1",
+      "poison_nq_q_111_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_111_tier2_1",
+      "poison_nq_q_111_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_111_tier3_1",
+      "poison_nq_q_111_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_111_tier4_1",
+      "poison_nq_q_111_tier4_2"
+    ]
+  },
+  "nq_q_112": {
+    "tier1_basic": [
+      "poison_nq_q_112_tier1_1",
+      "poison_nq_q_112_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_112_tier2_1",
+      "poison_nq_q_112_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_112_tier3_1",
+      "poison_nq_q_112_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_112_tier4_1",
+      "poison_nq_q_112_tier4_2"
+    ]
+  },
+  "nq_q_113": {
+    "tier1_basic": [
+      "poison_nq_q_113_tier1_1",
+      "poison_nq_q_113_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_113_tier2_1",
+      "poison_nq_q_113_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_113_tier3_1",
+      "poison_nq_q_113_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_113_tier4_1",
+      "poison_nq_q_113_tier4_2"
+    ]
+  },
+  "nq_q_114": {
+    "tier1_basic": [
+      "poison_nq_q_114_tier1_1",
+      "poison_nq_q_114_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_114_tier2_1",
+      "poison_nq_q_114_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_114_tier3_1",
+      "poison_nq_q_114_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_114_tier4_1",
+      "poison_nq_q_114_tier4_2"
+    ]
+  },
+  "nq_q_115": {
+    "tier1_basic": [
+      "poison_nq_q_115_tier1_1",
+      "poison_nq_q_115_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_115_tier2_1",
+      "poison_nq_q_115_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_115_tier3_1",
+      "poison_nq_q_115_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_115_tier4_1",
+      "poison_nq_q_115_tier4_2"
+    ]
+  },
+  "nq_q_116": {
+    "tier1_basic": [
+      "poison_nq_q_116_tier1_1",
+      "poison_nq_q_116_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_116_tier2_1",
+      "poison_nq_q_116_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_116_tier3_1",
+      "poison_nq_q_116_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_116_tier4_1",
+      "poison_nq_q_116_tier4_2"
+    ]
+  },
+  "nq_q_117": {
+    "tier1_basic": [
+      "poison_nq_q_117_tier1_1",
+      "poison_nq_q_117_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_117_tier2_1",
+      "poison_nq_q_117_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_117_tier3_1",
+      "poison_nq_q_117_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_117_tier4_1",
+      "poison_nq_q_117_tier4_2"
+    ]
+  },
+  "nq_q_118": {
+    "tier1_basic": [
+      "poison_nq_q_118_tier1_1",
+      "poison_nq_q_118_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_118_tier2_1",
+      "poison_nq_q_118_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_118_tier3_1",
+      "poison_nq_q_118_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_118_tier4_1",
+      "poison_nq_q_118_tier4_2"
+    ]
+  },
+  "nq_q_119": {
+    "tier1_basic": [
+      "poison_nq_q_119_tier1_1",
+      "poison_nq_q_119_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_119_tier2_1",
+      "poison_nq_q_119_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_119_tier3_1",
+      "poison_nq_q_119_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_119_tier4_1",
+      "poison_nq_q_119_tier4_2"
+    ]
+  },
+  "nq_q_120": {
+    "tier1_basic": [
+      "poison_nq_q_120_tier1_1",
+      "poison_nq_q_120_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_120_tier2_1",
+      "poison_nq_q_120_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_120_tier3_1",
+      "poison_nq_q_120_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_120_tier4_1",
+      "poison_nq_q_120_tier4_2"
+    ]
+  },
+  "nq_q_121": {
+    "tier1_basic": [
+      "poison_nq_q_121_tier1_1",
+      "poison_nq_q_121_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_121_tier2_1",
+      "poison_nq_q_121_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_121_tier3_1",
+      "poison_nq_q_121_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_121_tier4_1",
+      "poison_nq_q_121_tier4_2"
+    ]
+  },
+  "nq_q_122": {
+    "tier1_basic": [
+      "poison_nq_q_122_tier1_1",
+      "poison_nq_q_122_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_122_tier2_1",
+      "poison_nq_q_122_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_122_tier3_1",
+      "poison_nq_q_122_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_122_tier4_1",
+      "poison_nq_q_122_tier4_2"
+    ]
+  },
+  "nq_q_123": {
+    "tier1_basic": [
+      "poison_nq_q_123_tier1_1",
+      "poison_nq_q_123_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_123_tier2_1",
+      "poison_nq_q_123_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_123_tier3_1",
+      "poison_nq_q_123_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_123_tier4_1",
+      "poison_nq_q_123_tier4_2"
+    ]
+  },
+  "nq_q_124": {
+    "tier1_basic": [
+      "poison_nq_q_124_tier1_1",
+      "poison_nq_q_124_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_124_tier2_1",
+      "poison_nq_q_124_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_124_tier3_1",
+      "poison_nq_q_124_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_124_tier4_1",
+      "poison_nq_q_124_tier4_2"
+    ]
+  },
+  "nq_q_125": {
+    "tier1_basic": [
+      "poison_nq_q_125_tier1_1",
+      "poison_nq_q_125_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_125_tier2_1",
+      "poison_nq_q_125_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_125_tier3_1",
+      "poison_nq_q_125_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_125_tier4_1",
+      "poison_nq_q_125_tier4_2"
+    ]
+  },
+  "nq_q_126": {
+    "tier1_basic": [
+      "poison_nq_q_126_tier1_1",
+      "poison_nq_q_126_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_126_tier2_1",
+      "poison_nq_q_126_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_126_tier3_1",
+      "poison_nq_q_126_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_126_tier4_1",
+      "poison_nq_q_126_tier4_2"
+    ]
+  },
+  "nq_q_127": {
+    "tier1_basic": [
+      "poison_nq_q_127_tier1_1",
+      "poison_nq_q_127_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_127_tier2_1",
+      "poison_nq_q_127_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_127_tier3_1",
+      "poison_nq_q_127_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_127_tier4_1",
+      "poison_nq_q_127_tier4_2"
+    ]
+  },
+  "nq_q_128": {
+    "tier1_basic": [
+      "poison_nq_q_128_tier1_1",
+      "poison_nq_q_128_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_128_tier2_1",
+      "poison_nq_q_128_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_128_tier3_1",
+      "poison_nq_q_128_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_128_tier4_1",
+      "poison_nq_q_128_tier4_2"
+    ]
+  },
+  "nq_q_129": {
+    "tier1_basic": [
+      "poison_nq_q_129_tier1_1",
+      "poison_nq_q_129_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_129_tier2_1",
+      "poison_nq_q_129_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_129_tier3_1",
+      "poison_nq_q_129_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_129_tier4_1",
+      "poison_nq_q_129_tier4_2"
+    ]
+  },
+  "nq_q_130": {
+    "tier1_basic": [
+      "poison_nq_q_130_tier1_1",
+      "poison_nq_q_130_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_130_tier2_1",
+      "poison_nq_q_130_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_130_tier3_1",
+      "poison_nq_q_130_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_130_tier4_1",
+      "poison_nq_q_130_tier4_2"
+    ]
+  },
+  "nq_q_131": {
+    "tier1_basic": [
+      "poison_nq_q_131_tier1_1",
+      "poison_nq_q_131_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_131_tier2_1",
+      "poison_nq_q_131_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_131_tier3_1",
+      "poison_nq_q_131_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_131_tier4_1",
+      "poison_nq_q_131_tier4_2"
+    ]
+  },
+  "nq_q_132": {
+    "tier1_basic": [
+      "poison_nq_q_132_tier1_1",
+      "poison_nq_q_132_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_132_tier2_1",
+      "poison_nq_q_132_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_132_tier3_1",
+      "poison_nq_q_132_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_132_tier4_1",
+      "poison_nq_q_132_tier4_2"
+    ]
+  },
+  "nq_q_133": {
+    "tier1_basic": [
+      "poison_nq_q_133_tier1_1",
+      "poison_nq_q_133_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_133_tier2_1",
+      "poison_nq_q_133_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_133_tier3_1",
+      "poison_nq_q_133_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_133_tier4_1",
+      "poison_nq_q_133_tier4_2"
+    ]
+  },
+  "nq_q_134": {
+    "tier1_basic": [
+      "poison_nq_q_134_tier1_1",
+      "poison_nq_q_134_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_134_tier2_1",
+      "poison_nq_q_134_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_134_tier3_1",
+      "poison_nq_q_134_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_134_tier4_1",
+      "poison_nq_q_134_tier4_2"
+    ]
+  },
+  "nq_q_135": {
+    "tier1_basic": [
+      "poison_nq_q_135_tier1_1",
+      "poison_nq_q_135_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_135_tier2_1",
+      "poison_nq_q_135_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_135_tier3_1",
+      "poison_nq_q_135_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_135_tier4_1",
+      "poison_nq_q_135_tier4_2"
+    ]
+  },
+  "nq_q_136": {
+    "tier1_basic": [
+      "poison_nq_q_136_tier1_1",
+      "poison_nq_q_136_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_136_tier2_1",
+      "poison_nq_q_136_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_136_tier3_1",
+      "poison_nq_q_136_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_136_tier4_1",
+      "poison_nq_q_136_tier4_2"
+    ]
+  },
+  "nq_q_137": {
+    "tier1_basic": [
+      "poison_nq_q_137_tier1_1",
+      "poison_nq_q_137_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_137_tier2_1",
+      "poison_nq_q_137_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_137_tier3_1",
+      "poison_nq_q_137_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_137_tier4_1",
+      "poison_nq_q_137_tier4_2"
+    ]
+  },
+  "nq_q_138": {
+    "tier1_basic": [
+      "poison_nq_q_138_tier1_1",
+      "poison_nq_q_138_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_138_tier2_1",
+      "poison_nq_q_138_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_138_tier3_1",
+      "poison_nq_q_138_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_138_tier4_1",
+      "poison_nq_q_138_tier4_2"
+    ]
+  },
+  "nq_q_139": {
+    "tier1_basic": [
+      "poison_nq_q_139_tier1_1",
+      "poison_nq_q_139_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_139_tier2_1",
+      "poison_nq_q_139_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_139_tier3_1",
+      "poison_nq_q_139_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_139_tier4_1",
+      "poison_nq_q_139_tier4_2"
+    ]
+  },
+  "nq_q_140": {
+    "tier1_basic": [
+      "poison_nq_q_140_tier1_1",
+      "poison_nq_q_140_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_140_tier2_1",
+      "poison_nq_q_140_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_140_tier3_1",
+      "poison_nq_q_140_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_140_tier4_1",
+      "poison_nq_q_140_tier4_2"
+    ]
+  },
+  "nq_q_141": {
+    "tier1_basic": [
+      "poison_nq_q_141_tier1_1",
+      "poison_nq_q_141_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_141_tier2_1",
+      "poison_nq_q_141_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_141_tier3_1",
+      "poison_nq_q_141_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_141_tier4_1",
+      "poison_nq_q_141_tier4_2"
+    ]
+  },
+  "nq_q_142": {
+    "tier1_basic": [
+      "poison_nq_q_142_tier1_1",
+      "poison_nq_q_142_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_142_tier2_1",
+      "poison_nq_q_142_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_142_tier3_1",
+      "poison_nq_q_142_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_142_tier4_1",
+      "poison_nq_q_142_tier4_2"
+    ]
+  },
+  "nq_q_143": {
+    "tier1_basic": [
+      "poison_nq_q_143_tier1_1",
+      "poison_nq_q_143_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_143_tier2_1",
+      "poison_nq_q_143_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_143_tier3_1",
+      "poison_nq_q_143_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_143_tier4_1",
+      "poison_nq_q_143_tier4_2"
+    ]
+  },
+  "nq_q_144": {
+    "tier1_basic": [
+      "poison_nq_q_144_tier1_1",
+      "poison_nq_q_144_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_144_tier2_1",
+      "poison_nq_q_144_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_144_tier3_1",
+      "poison_nq_q_144_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_144_tier4_1",
+      "poison_nq_q_144_tier4_2"
+    ]
+  },
+  "nq_q_145": {
+    "tier1_basic": [
+      "poison_nq_q_145_tier1_1",
+      "poison_nq_q_145_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_145_tier2_1",
+      "poison_nq_q_145_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_145_tier3_1",
+      "poison_nq_q_145_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_145_tier4_1",
+      "poison_nq_q_145_tier4_2"
+    ]
+  },
+  "nq_q_146": {
+    "tier1_basic": [
+      "poison_nq_q_146_tier1_1",
+      "poison_nq_q_146_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_146_tier2_1",
+      "poison_nq_q_146_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_146_tier3_1",
+      "poison_nq_q_146_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_146_tier4_1",
+      "poison_nq_q_146_tier4_2"
+    ]
+  },
+  "nq_q_147": {
+    "tier1_basic": [
+      "poison_nq_q_147_tier1_1",
+      "poison_nq_q_147_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_147_tier2_1",
+      "poison_nq_q_147_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_147_tier3_1",
+      "poison_nq_q_147_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_147_tier4_1",
+      "poison_nq_q_147_tier4_2"
+    ]
+  },
+  "nq_q_148": {
+    "tier1_basic": [
+      "poison_nq_q_148_tier1_1",
+      "poison_nq_q_148_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_148_tier2_1",
+      "poison_nq_q_148_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_148_tier3_1",
+      "poison_nq_q_148_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_148_tier4_1",
+      "poison_nq_q_148_tier4_2"
+    ]
+  },
+  "nq_q_149": {
+    "tier1_basic": [
+      "poison_nq_q_149_tier1_1",
+      "poison_nq_q_149_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_149_tier2_1",
+      "poison_nq_q_149_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_149_tier3_1",
+      "poison_nq_q_149_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_149_tier4_1",
+      "poison_nq_q_149_tier4_2"
+    ]
+  },
+  "nq_q_150": {
+    "tier1_basic": [
+      "poison_nq_q_150_tier1_1",
+      "poison_nq_q_150_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_150_tier2_1",
+      "poison_nq_q_150_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_150_tier3_1",
+      "poison_nq_q_150_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_150_tier4_1",
+      "poison_nq_q_150_tier4_2"
+    ]
+  },
+  "nq_q_151": {
+    "tier1_basic": [
+      "poison_nq_q_151_tier1_1",
+      "poison_nq_q_151_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_151_tier2_1",
+      "poison_nq_q_151_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_151_tier3_1",
+      "poison_nq_q_151_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_151_tier4_1",
+      "poison_nq_q_151_tier4_2"
+    ]
+  },
+  "nq_q_152": {
+    "tier1_basic": [
+      "poison_nq_q_152_tier1_1",
+      "poison_nq_q_152_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_152_tier2_1",
+      "poison_nq_q_152_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_152_tier3_1",
+      "poison_nq_q_152_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_152_tier4_1",
+      "poison_nq_q_152_tier4_2"
+    ]
+  },
+  "nq_q_153": {
+    "tier1_basic": [
+      "poison_nq_q_153_tier1_1",
+      "poison_nq_q_153_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_153_tier2_1",
+      "poison_nq_q_153_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_153_tier3_1",
+      "poison_nq_q_153_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_153_tier4_1",
+      "poison_nq_q_153_tier4_2"
+    ]
+  },
+  "nq_q_154": {
+    "tier1_basic": [
+      "poison_nq_q_154_tier1_1",
+      "poison_nq_q_154_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_154_tier2_1",
+      "poison_nq_q_154_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_154_tier3_1",
+      "poison_nq_q_154_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_154_tier4_1",
+      "poison_nq_q_154_tier4_2"
+    ]
+  },
+  "nq_q_155": {
+    "tier1_basic": [
+      "poison_nq_q_155_tier1_1",
+      "poison_nq_q_155_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_155_tier2_1",
+      "poison_nq_q_155_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_155_tier3_1",
+      "poison_nq_q_155_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_155_tier4_1",
+      "poison_nq_q_155_tier4_2"
+    ]
+  },
+  "nq_q_156": {
+    "tier1_basic": [
+      "poison_nq_q_156_tier1_1",
+      "poison_nq_q_156_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_156_tier2_1",
+      "poison_nq_q_156_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_156_tier3_1",
+      "poison_nq_q_156_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_156_tier4_1",
+      "poison_nq_q_156_tier4_2"
+    ]
+  },
+  "nq_q_157": {
+    "tier1_basic": [
+      "poison_nq_q_157_tier1_1",
+      "poison_nq_q_157_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_157_tier2_1",
+      "poison_nq_q_157_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_157_tier3_1",
+      "poison_nq_q_157_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_157_tier4_1",
+      "poison_nq_q_157_tier4_2"
+    ]
+  },
+  "nq_q_158": {
+    "tier1_basic": [
+      "poison_nq_q_158_tier1_1",
+      "poison_nq_q_158_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_158_tier2_1",
+      "poison_nq_q_158_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_158_tier3_1",
+      "poison_nq_q_158_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_158_tier4_1",
+      "poison_nq_q_158_tier4_2"
+    ]
+  },
+  "nq_q_159": {
+    "tier1_basic": [
+      "poison_nq_q_159_tier1_1",
+      "poison_nq_q_159_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_159_tier2_1",
+      "poison_nq_q_159_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_159_tier3_1",
+      "poison_nq_q_159_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_159_tier4_1",
+      "poison_nq_q_159_tier4_2"
+    ]
+  },
+  "nq_q_160": {
+    "tier1_basic": [
+      "poison_nq_q_160_tier1_1",
+      "poison_nq_q_160_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_160_tier2_1",
+      "poison_nq_q_160_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_160_tier3_1",
+      "poison_nq_q_160_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_160_tier4_1",
+      "poison_nq_q_160_tier4_2"
+    ]
+  },
+  "nq_q_161": {
+    "tier1_basic": [
+      "poison_nq_q_161_tier1_1",
+      "poison_nq_q_161_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_161_tier2_1",
+      "poison_nq_q_161_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_161_tier3_1",
+      "poison_nq_q_161_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_161_tier4_1",
+      "poison_nq_q_161_tier4_2"
+    ]
+  },
+  "nq_q_162": {
+    "tier1_basic": [
+      "poison_nq_q_162_tier1_1",
+      "poison_nq_q_162_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_162_tier2_1",
+      "poison_nq_q_162_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_162_tier3_1",
+      "poison_nq_q_162_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_162_tier4_1",
+      "poison_nq_q_162_tier4_2"
+    ]
+  },
+  "nq_q_163": {
+    "tier1_basic": [
+      "poison_nq_q_163_tier1_1",
+      "poison_nq_q_163_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_163_tier2_1",
+      "poison_nq_q_163_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_163_tier3_1",
+      "poison_nq_q_163_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_163_tier4_1",
+      "poison_nq_q_163_tier4_2"
+    ]
+  },
+  "nq_q_164": {
+    "tier1_basic": [
+      "poison_nq_q_164_tier1_1",
+      "poison_nq_q_164_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_164_tier2_1",
+      "poison_nq_q_164_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_164_tier3_1",
+      "poison_nq_q_164_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_164_tier4_1",
+      "poison_nq_q_164_tier4_2"
+    ]
+  },
+  "nq_q_165": {
+    "tier1_basic": [
+      "poison_nq_q_165_tier1_1",
+      "poison_nq_q_165_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_165_tier2_1",
+      "poison_nq_q_165_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_165_tier3_1",
+      "poison_nq_q_165_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_165_tier4_1",
+      "poison_nq_q_165_tier4_2"
+    ]
+  },
+  "nq_q_166": {
+    "tier1_basic": [
+      "poison_nq_q_166_tier1_1",
+      "poison_nq_q_166_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_166_tier2_1",
+      "poison_nq_q_166_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_166_tier3_1",
+      "poison_nq_q_166_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_166_tier4_1",
+      "poison_nq_q_166_tier4_2"
+    ]
+  },
+  "nq_q_167": {
+    "tier1_basic": [
+      "poison_nq_q_167_tier1_1",
+      "poison_nq_q_167_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_167_tier2_1",
+      "poison_nq_q_167_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_167_tier3_1",
+      "poison_nq_q_167_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_167_tier4_1",
+      "poison_nq_q_167_tier4_2"
+    ]
+  },
+  "nq_q_168": {
+    "tier1_basic": [
+      "poison_nq_q_168_tier1_1",
+      "poison_nq_q_168_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_168_tier2_1",
+      "poison_nq_q_168_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_168_tier3_1",
+      "poison_nq_q_168_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_168_tier4_1",
+      "poison_nq_q_168_tier4_2"
+    ]
+  },
+  "nq_q_169": {
+    "tier1_basic": [
+      "poison_nq_q_169_tier1_1",
+      "poison_nq_q_169_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_169_tier2_1",
+      "poison_nq_q_169_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_169_tier3_1",
+      "poison_nq_q_169_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_169_tier4_1",
+      "poison_nq_q_169_tier4_2"
+    ]
+  },
+  "nq_q_170": {
+    "tier1_basic": [
+      "poison_nq_q_170_tier1_1",
+      "poison_nq_q_170_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_170_tier2_1",
+      "poison_nq_q_170_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_170_tier3_1",
+      "poison_nq_q_170_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_170_tier4_1",
+      "poison_nq_q_170_tier4_2"
+    ]
+  },
+  "nq_q_171": {
+    "tier1_basic": [
+      "poison_nq_q_171_tier1_1",
+      "poison_nq_q_171_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_171_tier2_1",
+      "poison_nq_q_171_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_171_tier3_1",
+      "poison_nq_q_171_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_171_tier4_1",
+      "poison_nq_q_171_tier4_2"
+    ]
+  },
+  "nq_q_172": {
+    "tier1_basic": [
+      "poison_nq_q_172_tier1_1",
+      "poison_nq_q_172_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_172_tier2_1",
+      "poison_nq_q_172_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_172_tier3_1",
+      "poison_nq_q_172_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_172_tier4_1",
+      "poison_nq_q_172_tier4_2"
+    ]
+  },
+  "nq_q_173": {
+    "tier1_basic": [
+      "poison_nq_q_173_tier1_1",
+      "poison_nq_q_173_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_173_tier2_1",
+      "poison_nq_q_173_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_173_tier3_1",
+      "poison_nq_q_173_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_173_tier4_1",
+      "poison_nq_q_173_tier4_2"
+    ]
+  },
+  "nq_q_174": {
+    "tier1_basic": [
+      "poison_nq_q_174_tier1_1",
+      "poison_nq_q_174_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_174_tier2_1",
+      "poison_nq_q_174_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_174_tier3_1",
+      "poison_nq_q_174_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_174_tier4_1",
+      "poison_nq_q_174_tier4_2"
+    ]
+  },
+  "nq_q_175": {
+    "tier1_basic": [
+      "poison_nq_q_175_tier1_1",
+      "poison_nq_q_175_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_175_tier2_1",
+      "poison_nq_q_175_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_175_tier3_1",
+      "poison_nq_q_175_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_175_tier4_1",
+      "poison_nq_q_175_tier4_2"
+    ]
+  },
+  "nq_q_176": {
+    "tier1_basic": [
+      "poison_nq_q_176_tier1_1",
+      "poison_nq_q_176_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_176_tier2_1",
+      "poison_nq_q_176_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_176_tier3_1",
+      "poison_nq_q_176_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_176_tier4_1",
+      "poison_nq_q_176_tier4_2"
+    ]
+  },
+  "nq_q_177": {
+    "tier1_basic": [
+      "poison_nq_q_177_tier1_1",
+      "poison_nq_q_177_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_177_tier2_1",
+      "poison_nq_q_177_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_177_tier3_1",
+      "poison_nq_q_177_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_177_tier4_1",
+      "poison_nq_q_177_tier4_2"
+    ]
+  },
+  "nq_q_178": {
+    "tier1_basic": [
+      "poison_nq_q_178_tier1_1",
+      "poison_nq_q_178_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_178_tier2_1",
+      "poison_nq_q_178_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_178_tier3_1",
+      "poison_nq_q_178_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_178_tier4_1",
+      "poison_nq_q_178_tier4_2"
+    ]
+  },
+  "nq_q_179": {
+    "tier1_basic": [
+      "poison_nq_q_179_tier1_1",
+      "poison_nq_q_179_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_179_tier2_1",
+      "poison_nq_q_179_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_179_tier3_1",
+      "poison_nq_q_179_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_179_tier4_1",
+      "poison_nq_q_179_tier4_2"
+    ]
+  },
+  "nq_q_180": {
+    "tier1_basic": [
+      "poison_nq_q_180_tier1_1",
+      "poison_nq_q_180_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_180_tier2_1",
+      "poison_nq_q_180_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_180_tier3_1",
+      "poison_nq_q_180_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_180_tier4_1",
+      "poison_nq_q_180_tier4_2"
+    ]
+  },
+  "nq_q_181": {
+    "tier1_basic": [
+      "poison_nq_q_181_tier1_1",
+      "poison_nq_q_181_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_181_tier2_1",
+      "poison_nq_q_181_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_181_tier3_1",
+      "poison_nq_q_181_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_181_tier4_1",
+      "poison_nq_q_181_tier4_2"
+    ]
+  },
+  "nq_q_182": {
+    "tier1_basic": [
+      "poison_nq_q_182_tier1_1",
+      "poison_nq_q_182_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_182_tier2_1",
+      "poison_nq_q_182_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_182_tier3_1",
+      "poison_nq_q_182_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_182_tier4_1",
+      "poison_nq_q_182_tier4_2"
+    ]
+  },
+  "nq_q_183": {
+    "tier1_basic": [
+      "poison_nq_q_183_tier1_1",
+      "poison_nq_q_183_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_183_tier2_1",
+      "poison_nq_q_183_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_183_tier3_1",
+      "poison_nq_q_183_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_183_tier4_1",
+      "poison_nq_q_183_tier4_2"
+    ]
+  },
+  "nq_q_184": {
+    "tier1_basic": [
+      "poison_nq_q_184_tier1_1",
+      "poison_nq_q_184_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_184_tier2_1",
+      "poison_nq_q_184_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_184_tier3_1",
+      "poison_nq_q_184_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_184_tier4_1",
+      "poison_nq_q_184_tier4_2"
+    ]
+  },
+  "nq_q_185": {
+    "tier1_basic": [
+      "poison_nq_q_185_tier1_1",
+      "poison_nq_q_185_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_185_tier2_1",
+      "poison_nq_q_185_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_185_tier3_1",
+      "poison_nq_q_185_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_185_tier4_1",
+      "poison_nq_q_185_tier4_2"
+    ]
+  },
+  "nq_q_186": {
+    "tier1_basic": [
+      "poison_nq_q_186_tier1_1",
+      "poison_nq_q_186_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_186_tier2_1",
+      "poison_nq_q_186_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_186_tier3_1",
+      "poison_nq_q_186_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_186_tier4_1",
+      "poison_nq_q_186_tier4_2"
+    ]
+  },
+  "nq_q_187": {
+    "tier1_basic": [
+      "poison_nq_q_187_tier1_1",
+      "poison_nq_q_187_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_187_tier2_1",
+      "poison_nq_q_187_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_187_tier3_1",
+      "poison_nq_q_187_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_187_tier4_1",
+      "poison_nq_q_187_tier4_2"
+    ]
+  },
+  "nq_q_188": {
+    "tier1_basic": [
+      "poison_nq_q_188_tier1_1",
+      "poison_nq_q_188_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_188_tier2_1",
+      "poison_nq_q_188_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_188_tier3_1",
+      "poison_nq_q_188_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_188_tier4_1",
+      "poison_nq_q_188_tier4_2"
+    ]
+  },
+  "nq_q_189": {
+    "tier1_basic": [
+      "poison_nq_q_189_tier1_1",
+      "poison_nq_q_189_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_189_tier2_1",
+      "poison_nq_q_189_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_189_tier3_1",
+      "poison_nq_q_189_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_189_tier4_1",
+      "poison_nq_q_189_tier4_2"
+    ]
+  },
+  "nq_q_190": {
+    "tier1_basic": [
+      "poison_nq_q_190_tier1_1",
+      "poison_nq_q_190_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_190_tier2_1",
+      "poison_nq_q_190_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_190_tier3_1",
+      "poison_nq_q_190_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_190_tier4_1",
+      "poison_nq_q_190_tier4_2"
+    ]
+  },
+  "nq_q_191": {
+    "tier1_basic": [
+      "poison_nq_q_191_tier1_1",
+      "poison_nq_q_191_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_191_tier2_1",
+      "poison_nq_q_191_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_191_tier3_1",
+      "poison_nq_q_191_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_191_tier4_1",
+      "poison_nq_q_191_tier4_2"
+    ]
+  },
+  "nq_q_192": {
+    "tier1_basic": [
+      "poison_nq_q_192_tier1_1",
+      "poison_nq_q_192_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_192_tier2_1",
+      "poison_nq_q_192_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_192_tier3_1",
+      "poison_nq_q_192_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_192_tier4_1",
+      "poison_nq_q_192_tier4_2"
+    ]
+  },
+  "nq_q_193": {
+    "tier1_basic": [
+      "poison_nq_q_193_tier1_1",
+      "poison_nq_q_193_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_193_tier2_1",
+      "poison_nq_q_193_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_193_tier3_1",
+      "poison_nq_q_193_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_193_tier4_1",
+      "poison_nq_q_193_tier4_2"
+    ]
+  },
+  "nq_q_194": {
+    "tier1_basic": [
+      "poison_nq_q_194_tier1_1",
+      "poison_nq_q_194_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_194_tier2_1",
+      "poison_nq_q_194_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_194_tier3_1",
+      "poison_nq_q_194_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_194_tier4_1",
+      "poison_nq_q_194_tier4_2"
+    ]
+  },
+  "nq_q_195": {
+    "tier1_basic": [
+      "poison_nq_q_195_tier1_1",
+      "poison_nq_q_195_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_195_tier2_1",
+      "poison_nq_q_195_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_195_tier3_1",
+      "poison_nq_q_195_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_195_tier4_1",
+      "poison_nq_q_195_tier4_2"
+    ]
+  },
+  "nq_q_196": {
+    "tier1_basic": [
+      "poison_nq_q_196_tier1_1",
+      "poison_nq_q_196_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_196_tier2_1",
+      "poison_nq_q_196_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_196_tier3_1",
+      "poison_nq_q_196_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_196_tier4_1",
+      "poison_nq_q_196_tier4_2"
+    ]
+  },
+  "nq_q_197": {
+    "tier1_basic": [
+      "poison_nq_q_197_tier1_1",
+      "poison_nq_q_197_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_197_tier2_1",
+      "poison_nq_q_197_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_197_tier3_1",
+      "poison_nq_q_197_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_197_tier4_1",
+      "poison_nq_q_197_tier4_2"
+    ]
+  },
+  "nq_q_198": {
+    "tier1_basic": [
+      "poison_nq_q_198_tier1_1",
+      "poison_nq_q_198_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_198_tier2_1",
+      "poison_nq_q_198_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_198_tier3_1",
+      "poison_nq_q_198_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_198_tier4_1",
+      "poison_nq_q_198_tier4_2"
+    ]
+  },
+  "nq_q_199": {
+    "tier1_basic": [
+      "poison_nq_q_199_tier1_1",
+      "poison_nq_q_199_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_199_tier2_1",
+      "poison_nq_q_199_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_199_tier3_1",
+      "poison_nq_q_199_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_199_tier4_1",
+      "poison_nq_q_199_tier4_2"
+    ]
+  },
+  "nq_q_200": {
+    "tier1_basic": [
+      "poison_nq_q_200_tier1_1",
+      "poison_nq_q_200_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_200_tier2_1",
+      "poison_nq_q_200_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_200_tier3_1",
+      "poison_nq_q_200_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_200_tier4_1",
+      "poison_nq_q_200_tier4_2"
+    ]
+  },
+  "nq_q_201": {
+    "tier1_basic": [
+      "poison_nq_q_201_tier1_1",
+      "poison_nq_q_201_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_201_tier2_1",
+      "poison_nq_q_201_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_201_tier3_1",
+      "poison_nq_q_201_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_201_tier4_1",
+      "poison_nq_q_201_tier4_2"
+    ]
+  },
+  "nq_q_202": {
+    "tier1_basic": [
+      "poison_nq_q_202_tier1_1",
+      "poison_nq_q_202_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_202_tier2_1",
+      "poison_nq_q_202_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_202_tier3_1",
+      "poison_nq_q_202_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_202_tier4_1",
+      "poison_nq_q_202_tier4_2"
+    ]
+  },
+  "nq_q_203": {
+    "tier1_basic": [
+      "poison_nq_q_203_tier1_1",
+      "poison_nq_q_203_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_203_tier2_1",
+      "poison_nq_q_203_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_203_tier3_1",
+      "poison_nq_q_203_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_203_tier4_1",
+      "poison_nq_q_203_tier4_2"
+    ]
+  },
+  "nq_q_204": {
+    "tier1_basic": [
+      "poison_nq_q_204_tier1_1",
+      "poison_nq_q_204_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_204_tier2_1",
+      "poison_nq_q_204_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_204_tier3_1",
+      "poison_nq_q_204_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_204_tier4_1",
+      "poison_nq_q_204_tier4_2"
+    ]
+  },
+  "nq_q_205": {
+    "tier1_basic": [
+      "poison_nq_q_205_tier1_1",
+      "poison_nq_q_205_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_205_tier2_1",
+      "poison_nq_q_205_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_205_tier3_1",
+      "poison_nq_q_205_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_205_tier4_1",
+      "poison_nq_q_205_tier4_2"
+    ]
+  },
+  "nq_q_206": {
+    "tier1_basic": [
+      "poison_nq_q_206_tier1_1",
+      "poison_nq_q_206_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_206_tier2_1",
+      "poison_nq_q_206_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_206_tier3_1",
+      "poison_nq_q_206_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_206_tier4_1",
+      "poison_nq_q_206_tier4_2"
+    ]
+  },
+  "nq_q_207": {
+    "tier1_basic": [
+      "poison_nq_q_207_tier1_1",
+      "poison_nq_q_207_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_207_tier2_1",
+      "poison_nq_q_207_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_207_tier3_1",
+      "poison_nq_q_207_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_207_tier4_1",
+      "poison_nq_q_207_tier4_2"
+    ]
+  },
+  "nq_q_208": {
+    "tier1_basic": [
+      "poison_nq_q_208_tier1_1",
+      "poison_nq_q_208_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_208_tier2_1",
+      "poison_nq_q_208_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_208_tier3_1",
+      "poison_nq_q_208_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_208_tier4_1",
+      "poison_nq_q_208_tier4_2"
+    ]
+  },
+  "nq_q_209": {
+    "tier1_basic": [
+      "poison_nq_q_209_tier1_1",
+      "poison_nq_q_209_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_209_tier2_1",
+      "poison_nq_q_209_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_209_tier3_1",
+      "poison_nq_q_209_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_209_tier4_1",
+      "poison_nq_q_209_tier4_2"
+    ]
+  },
+  "nq_q_210": {
+    "tier1_basic": [
+      "poison_nq_q_210_tier1_1",
+      "poison_nq_q_210_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_210_tier2_1",
+      "poison_nq_q_210_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_210_tier3_1",
+      "poison_nq_q_210_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_210_tier4_1",
+      "poison_nq_q_210_tier4_2"
+    ]
+  },
+  "nq_q_211": {
+    "tier1_basic": [
+      "poison_nq_q_211_tier1_1",
+      "poison_nq_q_211_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_211_tier2_1",
+      "poison_nq_q_211_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_211_tier3_1",
+      "poison_nq_q_211_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_211_tier4_1",
+      "poison_nq_q_211_tier4_2"
+    ]
+  },
+  "nq_q_212": {
+    "tier1_basic": [
+      "poison_nq_q_212_tier1_1",
+      "poison_nq_q_212_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_212_tier2_1",
+      "poison_nq_q_212_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_212_tier3_1",
+      "poison_nq_q_212_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_212_tier4_1",
+      "poison_nq_q_212_tier4_2"
+    ]
+  },
+  "nq_q_213": {
+    "tier1_basic": [
+      "poison_nq_q_213_tier1_1",
+      "poison_nq_q_213_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_213_tier2_1",
+      "poison_nq_q_213_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_213_tier3_1",
+      "poison_nq_q_213_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_213_tier4_1",
+      "poison_nq_q_213_tier4_2"
+    ]
+  },
+  "nq_q_214": {
+    "tier1_basic": [
+      "poison_nq_q_214_tier1_1",
+      "poison_nq_q_214_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_214_tier2_1",
+      "poison_nq_q_214_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_214_tier3_1",
+      "poison_nq_q_214_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_214_tier4_1",
+      "poison_nq_q_214_tier4_2"
+    ]
+  },
+  "nq_q_215": {
+    "tier1_basic": [
+      "poison_nq_q_215_tier1_1",
+      "poison_nq_q_215_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_215_tier2_1",
+      "poison_nq_q_215_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_215_tier3_1",
+      "poison_nq_q_215_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_215_tier4_1",
+      "poison_nq_q_215_tier4_2"
+    ]
+  },
+  "nq_q_216": {
+    "tier1_basic": [
+      "poison_nq_q_216_tier1_1",
+      "poison_nq_q_216_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_216_tier2_1",
+      "poison_nq_q_216_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_216_tier3_1",
+      "poison_nq_q_216_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_216_tier4_1",
+      "poison_nq_q_216_tier4_2"
+    ]
+  },
+  "nq_q_217": {
+    "tier1_basic": [
+      "poison_nq_q_217_tier1_1",
+      "poison_nq_q_217_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_217_tier2_1",
+      "poison_nq_q_217_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_217_tier3_1",
+      "poison_nq_q_217_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_217_tier4_1",
+      "poison_nq_q_217_tier4_2"
+    ]
+  },
+  "nq_q_218": {
+    "tier1_basic": [
+      "poison_nq_q_218_tier1_1",
+      "poison_nq_q_218_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_218_tier2_1",
+      "poison_nq_q_218_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_218_tier3_1",
+      "poison_nq_q_218_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_218_tier4_1",
+      "poison_nq_q_218_tier4_2"
+    ]
+  },
+  "nq_q_219": {
+    "tier1_basic": [
+      "poison_nq_q_219_tier1_1",
+      "poison_nq_q_219_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_219_tier2_1",
+      "poison_nq_q_219_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_219_tier3_1",
+      "poison_nq_q_219_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_219_tier4_1",
+      "poison_nq_q_219_tier4_2"
+    ]
+  },
+  "nq_q_220": {
+    "tier1_basic": [
+      "poison_nq_q_220_tier1_1",
+      "poison_nq_q_220_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_220_tier2_1",
+      "poison_nq_q_220_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_220_tier3_1",
+      "poison_nq_q_220_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_220_tier4_1",
+      "poison_nq_q_220_tier4_2"
+    ]
+  },
+  "nq_q_221": {
+    "tier1_basic": [
+      "poison_nq_q_221_tier1_1",
+      "poison_nq_q_221_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_221_tier2_1",
+      "poison_nq_q_221_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_221_tier3_1",
+      "poison_nq_q_221_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_221_tier4_1",
+      "poison_nq_q_221_tier4_2"
+    ]
+  },
+  "nq_q_222": {
+    "tier1_basic": [
+      "poison_nq_q_222_tier1_1",
+      "poison_nq_q_222_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_222_tier2_1",
+      "poison_nq_q_222_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_222_tier3_1",
+      "poison_nq_q_222_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_222_tier4_1",
+      "poison_nq_q_222_tier4_2"
+    ]
+  },
+  "nq_q_223": {
+    "tier1_basic": [
+      "poison_nq_q_223_tier1_1",
+      "poison_nq_q_223_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_223_tier2_1",
+      "poison_nq_q_223_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_223_tier3_1",
+      "poison_nq_q_223_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_223_tier4_1",
+      "poison_nq_q_223_tier4_2"
+    ]
+  },
+  "nq_q_224": {
+    "tier1_basic": [
+      "poison_nq_q_224_tier1_1",
+      "poison_nq_q_224_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_224_tier2_1",
+      "poison_nq_q_224_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_224_tier3_1",
+      "poison_nq_q_224_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_224_tier4_1",
+      "poison_nq_q_224_tier4_2"
+    ]
+  },
+  "nq_q_225": {
+    "tier1_basic": [
+      "poison_nq_q_225_tier1_1",
+      "poison_nq_q_225_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_225_tier2_1",
+      "poison_nq_q_225_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_225_tier3_1",
+      "poison_nq_q_225_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_225_tier4_1",
+      "poison_nq_q_225_tier4_2"
+    ]
+  },
+  "nq_q_226": {
+    "tier1_basic": [
+      "poison_nq_q_226_tier1_1",
+      "poison_nq_q_226_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_226_tier2_1",
+      "poison_nq_q_226_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_226_tier3_1",
+      "poison_nq_q_226_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_226_tier4_1",
+      "poison_nq_q_226_tier4_2"
+    ]
+  },
+  "nq_q_227": {
+    "tier1_basic": [
+      "poison_nq_q_227_tier1_1",
+      "poison_nq_q_227_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_227_tier2_1",
+      "poison_nq_q_227_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_227_tier3_1",
+      "poison_nq_q_227_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_227_tier4_1",
+      "poison_nq_q_227_tier4_2"
+    ]
+  },
+  "nq_q_228": {
+    "tier1_basic": [
+      "poison_nq_q_228_tier1_1",
+      "poison_nq_q_228_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_228_tier2_1",
+      "poison_nq_q_228_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_228_tier3_1",
+      "poison_nq_q_228_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_228_tier4_1",
+      "poison_nq_q_228_tier4_2"
+    ]
+  },
+  "nq_q_229": {
+    "tier1_basic": [
+      "poison_nq_q_229_tier1_1",
+      "poison_nq_q_229_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_229_tier2_1",
+      "poison_nq_q_229_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_229_tier3_1",
+      "poison_nq_q_229_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_229_tier4_1",
+      "poison_nq_q_229_tier4_2"
+    ]
+  },
+  "nq_q_230": {
+    "tier1_basic": [
+      "poison_nq_q_230_tier1_1",
+      "poison_nq_q_230_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_230_tier2_1",
+      "poison_nq_q_230_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_230_tier3_1",
+      "poison_nq_q_230_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_230_tier4_1",
+      "poison_nq_q_230_tier4_2"
+    ]
+  },
+  "nq_q_231": {
+    "tier1_basic": [
+      "poison_nq_q_231_tier1_1",
+      "poison_nq_q_231_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_231_tier2_1",
+      "poison_nq_q_231_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_231_tier3_1",
+      "poison_nq_q_231_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_231_tier4_1",
+      "poison_nq_q_231_tier4_2"
+    ]
+  },
+  "nq_q_232": {
+    "tier1_basic": [
+      "poison_nq_q_232_tier1_1",
+      "poison_nq_q_232_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_232_tier2_1",
+      "poison_nq_q_232_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_232_tier3_1",
+      "poison_nq_q_232_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_232_tier4_1",
+      "poison_nq_q_232_tier4_2"
+    ]
+  },
+  "nq_q_233": {
+    "tier1_basic": [
+      "poison_nq_q_233_tier1_1",
+      "poison_nq_q_233_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_233_tier2_1",
+      "poison_nq_q_233_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_233_tier3_1",
+      "poison_nq_q_233_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_233_tier4_1",
+      "poison_nq_q_233_tier4_2"
+    ]
+  },
+  "nq_q_234": {
+    "tier1_basic": [
+      "poison_nq_q_234_tier1_1",
+      "poison_nq_q_234_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_234_tier2_1",
+      "poison_nq_q_234_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_234_tier3_1",
+      "poison_nq_q_234_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_234_tier4_1",
+      "poison_nq_q_234_tier4_2"
+    ]
+  },
+  "nq_q_235": {
+    "tier1_basic": [
+      "poison_nq_q_235_tier1_1",
+      "poison_nq_q_235_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_235_tier2_1",
+      "poison_nq_q_235_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_235_tier3_1",
+      "poison_nq_q_235_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_235_tier4_1",
+      "poison_nq_q_235_tier4_2"
+    ]
+  },
+  "nq_q_236": {
+    "tier1_basic": [
+      "poison_nq_q_236_tier1_1",
+      "poison_nq_q_236_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_236_tier2_1",
+      "poison_nq_q_236_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_236_tier3_1",
+      "poison_nq_q_236_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_236_tier4_1",
+      "poison_nq_q_236_tier4_2"
+    ]
+  },
+  "nq_q_237": {
+    "tier1_basic": [
+      "poison_nq_q_237_tier1_1",
+      "poison_nq_q_237_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_237_tier2_1",
+      "poison_nq_q_237_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_237_tier3_1",
+      "poison_nq_q_237_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_237_tier4_1",
+      "poison_nq_q_237_tier4_2"
+    ]
+  },
+  "nq_q_238": {
+    "tier1_basic": [
+      "poison_nq_q_238_tier1_1",
+      "poison_nq_q_238_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_238_tier2_1",
+      "poison_nq_q_238_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_238_tier3_1",
+      "poison_nq_q_238_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_238_tier4_1",
+      "poison_nq_q_238_tier4_2"
+    ]
+  },
+  "nq_q_239": {
+    "tier1_basic": [
+      "poison_nq_q_239_tier1_1",
+      "poison_nq_q_239_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_239_tier2_1",
+      "poison_nq_q_239_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_239_tier3_1",
+      "poison_nq_q_239_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_239_tier4_1",
+      "poison_nq_q_239_tier4_2"
+    ]
+  },
+  "nq_q_240": {
+    "tier1_basic": [
+      "poison_nq_q_240_tier1_1",
+      "poison_nq_q_240_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_240_tier2_1",
+      "poison_nq_q_240_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_240_tier3_1",
+      "poison_nq_q_240_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_240_tier4_1",
+      "poison_nq_q_240_tier4_2"
+    ]
+  },
+  "nq_q_241": {
+    "tier1_basic": [
+      "poison_nq_q_241_tier1_1",
+      "poison_nq_q_241_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_241_tier2_1",
+      "poison_nq_q_241_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_241_tier3_1",
+      "poison_nq_q_241_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_241_tier4_1",
+      "poison_nq_q_241_tier4_2"
+    ]
+  },
+  "nq_q_242": {
+    "tier1_basic": [
+      "poison_nq_q_242_tier1_1",
+      "poison_nq_q_242_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_242_tier2_1",
+      "poison_nq_q_242_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_242_tier3_1",
+      "poison_nq_q_242_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_242_tier4_1",
+      "poison_nq_q_242_tier4_2"
+    ]
+  },
+  "nq_q_243": {
+    "tier1_basic": [
+      "poison_nq_q_243_tier1_1",
+      "poison_nq_q_243_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_243_tier2_1",
+      "poison_nq_q_243_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_243_tier3_1",
+      "poison_nq_q_243_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_243_tier4_1",
+      "poison_nq_q_243_tier4_2"
+    ]
+  },
+  "nq_q_244": {
+    "tier1_basic": [
+      "poison_nq_q_244_tier1_1",
+      "poison_nq_q_244_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_244_tier2_1",
+      "poison_nq_q_244_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_244_tier3_1",
+      "poison_nq_q_244_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_244_tier4_1",
+      "poison_nq_q_244_tier4_2"
+    ]
+  },
+  "nq_q_245": {
+    "tier1_basic": [
+      "poison_nq_q_245_tier1_1",
+      "poison_nq_q_245_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_245_tier2_1",
+      "poison_nq_q_245_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_245_tier3_1",
+      "poison_nq_q_245_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_245_tier4_1",
+      "poison_nq_q_245_tier4_2"
+    ]
+  },
+  "nq_q_246": {
+    "tier1_basic": [
+      "poison_nq_q_246_tier1_1",
+      "poison_nq_q_246_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_246_tier2_1",
+      "poison_nq_q_246_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_246_tier3_1",
+      "poison_nq_q_246_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_246_tier4_1",
+      "poison_nq_q_246_tier4_2"
+    ]
+  },
+  "nq_q_247": {
+    "tier1_basic": [
+      "poison_nq_q_247_tier1_1",
+      "poison_nq_q_247_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_247_tier2_1",
+      "poison_nq_q_247_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_247_tier3_1",
+      "poison_nq_q_247_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_247_tier4_1",
+      "poison_nq_q_247_tier4_2"
+    ]
+  },
+  "nq_q_248": {
+    "tier1_basic": [
+      "poison_nq_q_248_tier1_1",
+      "poison_nq_q_248_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_248_tier2_1",
+      "poison_nq_q_248_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_248_tier3_1",
+      "poison_nq_q_248_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_248_tier4_1",
+      "poison_nq_q_248_tier4_2"
+    ]
+  },
+  "nq_q_249": {
+    "tier1_basic": [
+      "poison_nq_q_249_tier1_1",
+      "poison_nq_q_249_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_249_tier2_1",
+      "poison_nq_q_249_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_249_tier3_1",
+      "poison_nq_q_249_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_249_tier4_1",
+      "poison_nq_q_249_tier4_2"
+    ]
+  },
+  "nq_q_250": {
+    "tier1_basic": [
+      "poison_nq_q_250_tier1_1",
+      "poison_nq_q_250_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_250_tier2_1",
+      "poison_nq_q_250_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_250_tier3_1",
+      "poison_nq_q_250_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_250_tier4_1",
+      "poison_nq_q_250_tier4_2"
+    ]
+  },
+  "nq_q_251": {
+    "tier1_basic": [
+      "poison_nq_q_251_tier1_1",
+      "poison_nq_q_251_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_251_tier2_1",
+      "poison_nq_q_251_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_251_tier3_1",
+      "poison_nq_q_251_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_251_tier4_1",
+      "poison_nq_q_251_tier4_2"
+    ]
+  },
+  "nq_q_252": {
+    "tier1_basic": [
+      "poison_nq_q_252_tier1_1",
+      "poison_nq_q_252_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_252_tier2_1",
+      "poison_nq_q_252_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_252_tier3_1",
+      "poison_nq_q_252_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_252_tier4_1",
+      "poison_nq_q_252_tier4_2"
+    ]
+  },
+  "nq_q_253": {
+    "tier1_basic": [
+      "poison_nq_q_253_tier1_1",
+      "poison_nq_q_253_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_253_tier2_1",
+      "poison_nq_q_253_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_253_tier3_1",
+      "poison_nq_q_253_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_253_tier4_1",
+      "poison_nq_q_253_tier4_2"
+    ]
+  },
+  "nq_q_254": {
+    "tier1_basic": [
+      "poison_nq_q_254_tier1_1",
+      "poison_nq_q_254_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_254_tier2_1",
+      "poison_nq_q_254_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_254_tier3_1",
+      "poison_nq_q_254_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_254_tier4_1",
+      "poison_nq_q_254_tier4_2"
+    ]
+  },
+  "nq_q_255": {
+    "tier1_basic": [
+      "poison_nq_q_255_tier1_1",
+      "poison_nq_q_255_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_255_tier2_1",
+      "poison_nq_q_255_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_255_tier3_1",
+      "poison_nq_q_255_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_255_tier4_1",
+      "poison_nq_q_255_tier4_2"
+    ]
+  },
+  "nq_q_256": {
+    "tier1_basic": [
+      "poison_nq_q_256_tier1_1",
+      "poison_nq_q_256_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_256_tier2_1",
+      "poison_nq_q_256_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_256_tier3_1",
+      "poison_nq_q_256_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_256_tier4_1",
+      "poison_nq_q_256_tier4_2"
+    ]
+  },
+  "nq_q_257": {
+    "tier1_basic": [
+      "poison_nq_q_257_tier1_1",
+      "poison_nq_q_257_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_257_tier2_1",
+      "poison_nq_q_257_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_257_tier3_1",
+      "poison_nq_q_257_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_257_tier4_1",
+      "poison_nq_q_257_tier4_2"
+    ]
+  },
+  "nq_q_258": {
+    "tier1_basic": [
+      "poison_nq_q_258_tier1_1",
+      "poison_nq_q_258_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_258_tier2_1",
+      "poison_nq_q_258_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_258_tier3_1",
+      "poison_nq_q_258_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_258_tier4_1",
+      "poison_nq_q_258_tier4_2"
+    ]
+  },
+  "nq_q_259": {
+    "tier1_basic": [
+      "poison_nq_q_259_tier1_1",
+      "poison_nq_q_259_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_259_tier2_1",
+      "poison_nq_q_259_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_259_tier3_1",
+      "poison_nq_q_259_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_259_tier4_1",
+      "poison_nq_q_259_tier4_2"
+    ]
+  },
+  "nq_q_260": {
+    "tier1_basic": [
+      "poison_nq_q_260_tier1_1",
+      "poison_nq_q_260_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_260_tier2_1",
+      "poison_nq_q_260_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_260_tier3_1",
+      "poison_nq_q_260_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_260_tier4_1",
+      "poison_nq_q_260_tier4_2"
+    ]
+  },
+  "nq_q_261": {
+    "tier1_basic": [
+      "poison_nq_q_261_tier1_1",
+      "poison_nq_q_261_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_261_tier2_1",
+      "poison_nq_q_261_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_261_tier3_1",
+      "poison_nq_q_261_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_261_tier4_1",
+      "poison_nq_q_261_tier4_2"
+    ]
+  },
+  "nq_q_262": {
+    "tier1_basic": [
+      "poison_nq_q_262_tier1_1",
+      "poison_nq_q_262_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_262_tier2_1",
+      "poison_nq_q_262_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_262_tier3_1",
+      "poison_nq_q_262_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_262_tier4_1",
+      "poison_nq_q_262_tier4_2"
+    ]
+  },
+  "nq_q_263": {
+    "tier1_basic": [
+      "poison_nq_q_263_tier1_1",
+      "poison_nq_q_263_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_263_tier2_1",
+      "poison_nq_q_263_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_263_tier3_1",
+      "poison_nq_q_263_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_263_tier4_1",
+      "poison_nq_q_263_tier4_2"
+    ]
+  },
+  "nq_q_264": {
+    "tier1_basic": [
+      "poison_nq_q_264_tier1_1",
+      "poison_nq_q_264_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_264_tier2_1",
+      "poison_nq_q_264_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_264_tier3_1",
+      "poison_nq_q_264_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_264_tier4_1",
+      "poison_nq_q_264_tier4_2"
+    ]
+  },
+  "nq_q_265": {
+    "tier1_basic": [
+      "poison_nq_q_265_tier1_1",
+      "poison_nq_q_265_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_265_tier2_1",
+      "poison_nq_q_265_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_265_tier3_1",
+      "poison_nq_q_265_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_265_tier4_1",
+      "poison_nq_q_265_tier4_2"
+    ]
+  },
+  "nq_q_266": {
+    "tier1_basic": [
+      "poison_nq_q_266_tier1_1",
+      "poison_nq_q_266_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_266_tier2_1",
+      "poison_nq_q_266_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_266_tier3_1",
+      "poison_nq_q_266_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_266_tier4_1",
+      "poison_nq_q_266_tier4_2"
+    ]
+  },
+  "nq_q_267": {
+    "tier1_basic": [
+      "poison_nq_q_267_tier1_1",
+      "poison_nq_q_267_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_267_tier2_1",
+      "poison_nq_q_267_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_267_tier3_1",
+      "poison_nq_q_267_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_267_tier4_1",
+      "poison_nq_q_267_tier4_2"
+    ]
+  },
+  "nq_q_268": {
+    "tier1_basic": [
+      "poison_nq_q_268_tier1_1",
+      "poison_nq_q_268_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_268_tier2_1",
+      "poison_nq_q_268_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_268_tier3_1",
+      "poison_nq_q_268_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_268_tier4_1",
+      "poison_nq_q_268_tier4_2"
+    ]
+  },
+  "nq_q_269": {
+    "tier1_basic": [
+      "poison_nq_q_269_tier1_1",
+      "poison_nq_q_269_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_269_tier2_1",
+      "poison_nq_q_269_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_269_tier3_1",
+      "poison_nq_q_269_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_269_tier4_1",
+      "poison_nq_q_269_tier4_2"
+    ]
+  },
+  "nq_q_270": {
+    "tier1_basic": [
+      "poison_nq_q_270_tier1_1",
+      "poison_nq_q_270_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_270_tier2_1",
+      "poison_nq_q_270_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_270_tier3_1",
+      "poison_nq_q_270_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_270_tier4_1",
+      "poison_nq_q_270_tier4_2"
+    ]
+  },
+  "nq_q_271": {
+    "tier1_basic": [
+      "poison_nq_q_271_tier1_1",
+      "poison_nq_q_271_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_271_tier2_1",
+      "poison_nq_q_271_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_271_tier3_1",
+      "poison_nq_q_271_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_271_tier4_1",
+      "poison_nq_q_271_tier4_2"
+    ]
+  },
+  "nq_q_272": {
+    "tier1_basic": [
+      "poison_nq_q_272_tier1_1",
+      "poison_nq_q_272_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_272_tier2_1",
+      "poison_nq_q_272_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_272_tier3_1",
+      "poison_nq_q_272_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_272_tier4_1",
+      "poison_nq_q_272_tier4_2"
+    ]
+  },
+  "nq_q_273": {
+    "tier1_basic": [
+      "poison_nq_q_273_tier1_1",
+      "poison_nq_q_273_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_273_tier2_1",
+      "poison_nq_q_273_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_273_tier3_1",
+      "poison_nq_q_273_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_273_tier4_1",
+      "poison_nq_q_273_tier4_2"
+    ]
+  },
+  "nq_q_274": {
+    "tier1_basic": [
+      "poison_nq_q_274_tier1_1",
+      "poison_nq_q_274_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_274_tier2_1",
+      "poison_nq_q_274_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_274_tier3_1",
+      "poison_nq_q_274_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_274_tier4_1",
+      "poison_nq_q_274_tier4_2"
+    ]
+  },
+  "nq_q_275": {
+    "tier1_basic": [
+      "poison_nq_q_275_tier1_1",
+      "poison_nq_q_275_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_275_tier2_1",
+      "poison_nq_q_275_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_275_tier3_1",
+      "poison_nq_q_275_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_275_tier4_1",
+      "poison_nq_q_275_tier4_2"
+    ]
+  },
+  "nq_q_276": {
+    "tier1_basic": [
+      "poison_nq_q_276_tier1_1",
+      "poison_nq_q_276_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_276_tier2_1",
+      "poison_nq_q_276_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_276_tier3_1",
+      "poison_nq_q_276_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_276_tier4_1",
+      "poison_nq_q_276_tier4_2"
+    ]
+  },
+  "nq_q_277": {
+    "tier1_basic": [
+      "poison_nq_q_277_tier1_1",
+      "poison_nq_q_277_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_277_tier2_1",
+      "poison_nq_q_277_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_277_tier3_1",
+      "poison_nq_q_277_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_277_tier4_1",
+      "poison_nq_q_277_tier4_2"
+    ]
+  },
+  "nq_q_278": {
+    "tier1_basic": [
+      "poison_nq_q_278_tier1_1",
+      "poison_nq_q_278_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_278_tier2_1",
+      "poison_nq_q_278_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_278_tier3_1",
+      "poison_nq_q_278_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_278_tier4_1",
+      "poison_nq_q_278_tier4_2"
+    ]
+  },
+  "nq_q_279": {
+    "tier1_basic": [
+      "poison_nq_q_279_tier1_1",
+      "poison_nq_q_279_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_279_tier2_1",
+      "poison_nq_q_279_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_279_tier3_1",
+      "poison_nq_q_279_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_279_tier4_1",
+      "poison_nq_q_279_tier4_2"
+    ]
+  },
+  "nq_q_280": {
+    "tier1_basic": [
+      "poison_nq_q_280_tier1_1",
+      "poison_nq_q_280_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_280_tier2_1",
+      "poison_nq_q_280_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_280_tier3_1",
+      "poison_nq_q_280_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_280_tier4_1",
+      "poison_nq_q_280_tier4_2"
+    ]
+  },
+  "nq_q_281": {
+    "tier1_basic": [
+      "poison_nq_q_281_tier1_1",
+      "poison_nq_q_281_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_281_tier2_1",
+      "poison_nq_q_281_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_281_tier3_1",
+      "poison_nq_q_281_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_281_tier4_1",
+      "poison_nq_q_281_tier4_2"
+    ]
+  },
+  "nq_q_282": {
+    "tier1_basic": [
+      "poison_nq_q_282_tier1_1",
+      "poison_nq_q_282_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_282_tier2_1",
+      "poison_nq_q_282_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_282_tier3_1",
+      "poison_nq_q_282_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_282_tier4_1",
+      "poison_nq_q_282_tier4_2"
+    ]
+  },
+  "nq_q_283": {
+    "tier1_basic": [
+      "poison_nq_q_283_tier1_1",
+      "poison_nq_q_283_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_283_tier2_1",
+      "poison_nq_q_283_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_283_tier3_1",
+      "poison_nq_q_283_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_283_tier4_1",
+      "poison_nq_q_283_tier4_2"
+    ]
+  },
+  "nq_q_284": {
+    "tier1_basic": [
+      "poison_nq_q_284_tier1_1",
+      "poison_nq_q_284_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_284_tier2_1",
+      "poison_nq_q_284_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_284_tier3_1",
+      "poison_nq_q_284_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_284_tier4_1",
+      "poison_nq_q_284_tier4_2"
+    ]
+  },
+  "nq_q_285": {
+    "tier1_basic": [
+      "poison_nq_q_285_tier1_1",
+      "poison_nq_q_285_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_285_tier2_1",
+      "poison_nq_q_285_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_285_tier3_1",
+      "poison_nq_q_285_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_285_tier4_1",
+      "poison_nq_q_285_tier4_2"
+    ]
+  },
+  "nq_q_286": {
+    "tier1_basic": [
+      "poison_nq_q_286_tier1_1",
+      "poison_nq_q_286_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_286_tier2_1",
+      "poison_nq_q_286_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_286_tier3_1",
+      "poison_nq_q_286_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_286_tier4_1",
+      "poison_nq_q_286_tier4_2"
+    ]
+  },
+  "nq_q_287": {
+    "tier1_basic": [
+      "poison_nq_q_287_tier1_1",
+      "poison_nq_q_287_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_287_tier2_1",
+      "poison_nq_q_287_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_287_tier3_1",
+      "poison_nq_q_287_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_287_tier4_1",
+      "poison_nq_q_287_tier4_2"
+    ]
+  },
+  "nq_q_288": {
+    "tier1_basic": [
+      "poison_nq_q_288_tier1_1",
+      "poison_nq_q_288_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_288_tier2_1",
+      "poison_nq_q_288_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_288_tier3_1",
+      "poison_nq_q_288_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_288_tier4_1",
+      "poison_nq_q_288_tier4_2"
+    ]
+  },
+  "nq_q_289": {
+    "tier1_basic": [
+      "poison_nq_q_289_tier1_1",
+      "poison_nq_q_289_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_289_tier2_1",
+      "poison_nq_q_289_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_289_tier3_1",
+      "poison_nq_q_289_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_289_tier4_1",
+      "poison_nq_q_289_tier4_2"
+    ]
+  },
+  "nq_q_290": {
+    "tier1_basic": [
+      "poison_nq_q_290_tier1_1",
+      "poison_nq_q_290_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_290_tier2_1",
+      "poison_nq_q_290_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_290_tier3_1",
+      "poison_nq_q_290_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_290_tier4_1",
+      "poison_nq_q_290_tier4_2"
+    ]
+  },
+  "nq_q_291": {
+    "tier1_basic": [
+      "poison_nq_q_291_tier1_1",
+      "poison_nq_q_291_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_291_tier2_1",
+      "poison_nq_q_291_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_291_tier3_1",
+      "poison_nq_q_291_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_291_tier4_1",
+      "poison_nq_q_291_tier4_2"
+    ]
+  },
+  "nq_q_292": {
+    "tier1_basic": [
+      "poison_nq_q_292_tier1_1",
+      "poison_nq_q_292_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_292_tier2_1",
+      "poison_nq_q_292_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_292_tier3_1",
+      "poison_nq_q_292_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_292_tier4_1",
+      "poison_nq_q_292_tier4_2"
+    ]
+  },
+  "nq_q_293": {
+    "tier1_basic": [
+      "poison_nq_q_293_tier1_1",
+      "poison_nq_q_293_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_293_tier2_1",
+      "poison_nq_q_293_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_293_tier3_1",
+      "poison_nq_q_293_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_293_tier4_1",
+      "poison_nq_q_293_tier4_2"
+    ]
+  },
+  "nq_q_294": {
+    "tier1_basic": [
+      "poison_nq_q_294_tier1_1",
+      "poison_nq_q_294_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_294_tier2_1",
+      "poison_nq_q_294_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_294_tier3_1",
+      "poison_nq_q_294_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_294_tier4_1",
+      "poison_nq_q_294_tier4_2"
+    ]
+  },
+  "nq_q_295": {
+    "tier1_basic": [
+      "poison_nq_q_295_tier1_1",
+      "poison_nq_q_295_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_295_tier2_1",
+      "poison_nq_q_295_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_295_tier3_1",
+      "poison_nq_q_295_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_295_tier4_1",
+      "poison_nq_q_295_tier4_2"
+    ]
+  },
+  "nq_q_296": {
+    "tier1_basic": [
+      "poison_nq_q_296_tier1_1",
+      "poison_nq_q_296_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_296_tier2_1",
+      "poison_nq_q_296_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_296_tier3_1",
+      "poison_nq_q_296_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_296_tier4_1",
+      "poison_nq_q_296_tier4_2"
+    ]
+  },
+  "nq_q_297": {
+    "tier1_basic": [
+      "poison_nq_q_297_tier1_1",
+      "poison_nq_q_297_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_297_tier2_1",
+      "poison_nq_q_297_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_297_tier3_1",
+      "poison_nq_q_297_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_297_tier4_1",
+      "poison_nq_q_297_tier4_2"
+    ]
+  },
+  "nq_q_298": {
+    "tier1_basic": [
+      "poison_nq_q_298_tier1_1",
+      "poison_nq_q_298_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_298_tier2_1",
+      "poison_nq_q_298_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_298_tier3_1",
+      "poison_nq_q_298_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_298_tier4_1",
+      "poison_nq_q_298_tier4_2"
+    ]
+  },
+  "nq_q_299": {
+    "tier1_basic": [
+      "poison_nq_q_299_tier1_1",
+      "poison_nq_q_299_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_299_tier2_1",
+      "poison_nq_q_299_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_299_tier3_1",
+      "poison_nq_q_299_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_299_tier4_1",
+      "poison_nq_q_299_tier4_2"
+    ]
+  },
+  "nq_q_300": {
+    "tier1_basic": [
+      "poison_nq_q_300_tier1_1",
+      "poison_nq_q_300_tier1_2"
+    ],
+    "tier2_camouflaged": [
+      "poison_nq_q_300_tier2_1",
+      "poison_nq_q_300_tier2_2"
+    ],
+    "tier3_centroid": [
+      "poison_nq_q_300_tier3_1",
+      "poison_nq_q_300_tier3_2"
+    ],
+    "tier4_hybrid_jam": [
+      "poison_nq_q_300_tier4_1",
+      "poison_nq_q_300_tier4_2"
+    ]
+  }
+}
