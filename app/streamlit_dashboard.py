@@ -6,9 +6,14 @@ Compliant with OWASP LLM08:2025 (Vector & Document Poisoning Mitigation).
 """
 
 import json
+from pathlib import Path
+import sys
 import time
 from typing import List, Tuple
 import numpy as np
+
+# Ensure project root is in sys.path so 'streamlit run app/streamlit_dashboard.py' works directly
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 try:
     import streamlit as st
