@@ -723,7 +723,7 @@ def main():
                 "Dense Score": f"{cand.dense_score:.4f}",
                 "Status": cand.status.value.upper(),
             })
-        st.dataframe(c_table_rows, use_container_width=True)
+        st.dataframe(c_table_rows, width="stretch")
 
     # -------------------------------------------------------------------------
     # TAB 2: 2D Embedding Manifold & Vector Forensics
@@ -736,7 +736,7 @@ def main():
         )
 
         fig_pca = plotter.plot_embedding_space_2d(pool)
-        st.plotly_chart(fig_pca, use_container_width=True)
+        st.plotly_chart(fig_pca, width="stretch")
 
         st.markdown("#### 🧭 Dense vs. Sparse Rank Disagreement Forensics")
         forensic_rows = []
@@ -754,7 +754,7 @@ def main():
                 "Stage 1 Risk": f"{cand.stage1_risk:.3f}",
                 "Final Risk": f"{cand.final_risk:.3f}",
             })
-        st.dataframe(forensic_rows, use_container_width=True)
+        st.dataframe(forensic_rows, width="stretch")
 
     # -------------------------------------------------------------------------
     # TAB 3: Explainable Document Scorecards (XAI Inspector)
@@ -835,7 +835,7 @@ def main():
                 with c_card_right:
                     st.markdown("##### 5-Axis Anomaly Radar")
                     fig_radar = plotter.plot_candidate_radar(cand)
-                    st.plotly_chart(fig_radar, use_container_width=True)
+                    st.plotly_chart(fig_radar, width="stretch")
 
     # -------------------------------------------------------------------------
     # TAB 4: Red-Team Ablations & Security-Utility Frontier
@@ -852,14 +852,14 @@ def main():
         col_f1, col_f2 = st.columns([1, 1])
         with col_f1:
             fig_frontier = plotter.plot_security_utility_frontier(sweep_data)
-            st.plotly_chart(fig_frontier, use_container_width=True)
+            st.plotly_chart(fig_frontier, width="stretch")
         with col_f2:
             fig_bars = plotter.plot_ablation_bars(ablation_data)
-            st.plotly_chart(fig_bars, use_container_width=True)
+            st.plotly_chart(fig_bars, width="stretch")
 
         st.markdown("#### 🔥 Attack Tier vs. Defense Generation ASR Heatmap")
         fig_heat = plotter.plot_ablation_heatmap(ablation_data)
-        st.plotly_chart(fig_heat, use_container_width=True)
+        st.plotly_chart(fig_heat, width="stretch")
 
         # Download Audit Report
         st.markdown("#### 📥 Export Enterprise Security Audit Report")
