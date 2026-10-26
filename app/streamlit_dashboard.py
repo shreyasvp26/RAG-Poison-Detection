@@ -46,7 +46,7 @@ def _compat_dataframe(data, **kwargs):
     """Render dataframe compatible across Streamlit <1.60 and >=1.60."""
     try:
         st.dataframe(data, width="stretch", **kwargs)
-    except (TypeError, ValueError):
+    except Exception:
         st.dataframe(data, use_container_width=True, **kwargs)
 
 
@@ -54,7 +54,7 @@ def _compat_plotly_chart(fig, **kwargs):
     """Render plotly chart compatible across Streamlit <1.60 and >=1.60."""
     try:
         st.plotly_chart(fig, width="stretch", **kwargs)
-    except (TypeError, ValueError):
+    except Exception:
         st.plotly_chart(fig, use_container_width=True, **kwargs)
 
 
